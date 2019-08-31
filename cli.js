@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+const regression = require('./lib/regression')
 const min = require('../min-gharchive')
 const fs = require('fs')
 const zlib = require('zlib')
@@ -38,6 +39,13 @@ const pullRange = async argv => {
   }
 }
 
+const runRegression = async argv => {
+  if (!argv.datetime) argv.datetime = new Date(Date.now() - (onehour * 24))
+  else argv.datetime = new Date(argv.datetime)
+  let results = await regression(argv.input, argv.datetime)
+  console.log(results)
+}
+
 const outputOptions = yargs => {
   yargs.option('output', {
     alias: 'o',
@@ -45,10 +53,20 @@ const outputOptions = yargs => {
   })
 }
 
+const regressionOptions = yargs => {
+  outputOptions(yargs)
+  yargs.option('input', {
+    alias: 'i',
+    description: 'Input directory',
+    required: true
+  })
+}
+
 const yargs = require('yargs')
 const args = yargs
   .command('pull-hour [datetime]', 'pull an hour of gharchive', outputOptions, pullHour) 
   .command('pull <starttime> <endtime>', 'pull a timerange', outputOptions, pullRange)
+  .command('regression [datetime]', 'build regression analysis for a day', regressionOptions, runRegression)
   .argv
 
 if (!args._.length) {

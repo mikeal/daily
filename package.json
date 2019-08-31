@@ -10,6 +10,7 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
   "license": "(Apache-2.0 AND MIT)",
   "dependencies": {
+    "json-stream": "^1.0.0",
     "yargs": "^14.0.0"
   }
 }
