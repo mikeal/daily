@@ -12,5 +12,8 @@
   "dependencies": {
     "json-stream": "^1.0.0",
     "yargs": "^14.0.0"
+  },
+  "devDependencies": {
+    "standard": "^14.1.0"
   }
 }

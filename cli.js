@@ -3,8 +3,7 @@ const regression = require('./lib/regression')
 const min = require('../min-gharchive')
 const fs = require('fs')
 const zlib = require('zlib')
-
-const noop = () => {}
+const { inspect } = require('util')
 
 const onehour = 1000 * 60 * 60
 
@@ -16,7 +15,7 @@ const pullHour = async argv => {
   } else {
     outs = process.stdout
   }
-  for await (let event of min(dt)) {
+  for await (const event of min(dt)) {
     outs.write(JSON.stringify(event))
     outs.write('\n')
   }
@@ -31,7 +30,7 @@ const pullRange = async argv => {
     argv.datetime = start
     if (output) {
       console.log('pulling ' + start)
-      let filename = min.tsToFilename(start)
+      const filename = min.tsToFilename(start)
       argv.output = output + filename
     }
     await pullHour(argv)
@@ -42,8 +41,19 @@ const pullRange = async argv => {
 const runRegression = async argv => {
   if (!argv.datetime) argv.datetime = new Date(Date.now() - (onehour * 24))
   else argv.datetime = new Date(argv.datetime)
-  let results = await regression(argv.input, argv.datetime)
-  console.log(results)
+  const results = await regression(argv.input, argv.datetime)
+  if (argv.output) {
+    let basepath = argv.output
+    if (!basepath.endsWith('/')) basepath += '/'
+    const ts = argv.datetime
+    const year = ts.getUTCFullYear()
+    const month = (ts.getUTCMonth() + 1).toString().padStart(2, '0')
+    const day = ts.getUTCDate().toString().toString().padStart(2, '0')
+    const filename = `${basepath}${year}-${month}-${day}.json.gz`
+    fs.writeFileSync(filename, zlib.gzipSync(JSON.stringify(results)))    
+  } else {
+    console.log(inspect(results, { depth: Infinity }))
+  }
 }
 
 const outputOptions = yargs => {
@@ -58,13 +68,13 @@ const regressionOptions = yargs => {
   yargs.option('input', {
     alias: 'i',
     description: 'Input directory',
-    required: true
+    default: './data/min'
   })
 }
 
 const yargs = require('yargs')
 const args = yargs
-  .command('pull-hour [datetime]', 'pull an hour of gharchive', outputOptions, pullHour) 
+  .command('pull-hour [datetime]', 'pull an hour of gharchive', outputOptions, pullHour)
   .command('pull <starttime> <endtime>', 'pull a timerange', outputOptions, pullRange)
   .command('regression [datetime]', 'build regression analysis for a day', regressionOptions, runRegression)
   .argv
