@@ -383,17 +383,3 @@
 | [ndbrown6/modules](https://github.com/ndbrown6/modules) | 41 |
 | [labseu2-anonymous-team-feedback/Backend](https://github.com/labseu2-anonymous-team-feedback/Backend) | 41 |
 
-#### public
-| repo | count |
-| ---- | ----- |
-| [mssaisandeep/kong-oidc](https://github.com/mssaisandeep/kong-oidc) | 4 |
-| [maxthonl/hello-world](https://github.com/maxthonl/hello-world) | 3 |
-| [ziggytrade/Catalyst-Bot](https://github.com/ziggytrade/Catalyst-Bot) | 3 |
-| [hubes/hubes.github.io](https://github.com/hubes/hubes.github.io) | 3 |
-| [Athos-E/Athos-s-Class-Overhaul](https://github.com/Athos-E/Athos-s-Class-Overhaul) | 2 |
-| [rwelch8/axacore](https://github.com/rwelch8/axacore) | 2 |
-| [chengengliu/CCC-Project1](https://github.com/chengengliu/CCC-Project1) | 2 |
-| [GodFlight/42_fractol](https://github.com/GodFlight/42_fractol) | 2 |
-| [claudineibjr/HomePage_ReactJS](https://github.com/claudineibjr/HomePage_ReactJS) | 2 |
-| [gnshd/acecore](https://github.com/gnshd/acecore) | 2 |
-
