@@ -155,9 +155,9 @@
 | [@ewardThaine](https://github.com/ewardThaine) | 7567 |
 | [@willcbaker-ext](https://github.com/willcbaker-ext) | 5355 |
 | [@direwolf-github](https://github.com/direwolf-github) | 4987 |
-| [@newstools](https://github.com/newstools) | 2923 |
 | [@liferay-continuous-integration-hu](https://github.com/liferay-continuous-integration-hu) | 2505 |
 | [@franck-paul](https://github.com/franck-paul) | 2342 |
+| [@pakeji](https://github.com/pakeji) | 2270 |
 
 #### del
 | user | count |
@@ -308,12 +308,12 @@
 | [@pull[bot]](https://github.com/pull[bot]) | 4240 |
 | [@renovate-bot](https://github.com/renovate-bot) | 3682 |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 3183 |
+| [@newstools](https://github.com/newstools) | 2923 |
 | [@dependabot[bot]](https://github.com/dependabot[bot]) | 889 |
 | [@zeit-github-tester[bot]](https://github.com/zeit-github-tester[bot]) | 498 |
 | [@github-actions[bot]](https://github.com/github-actions[bot]) | 451 |
 | [@bitnami-bot](https://github.com/bitnami-bot) | 350 |
 | [@dotnet-maestro[bot]](https://github.com/dotnet-maestro[bot]) | 347 |
-| [@facebook-github-bot](https://github.com/facebook-github-bot) | 309 |
 
 
 ### Activity (Repos)
