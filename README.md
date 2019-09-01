@@ -9,21 +9,20 @@
 | user | count |
 | ---- | ----- |
 | [@sharonovd](https://github.com/sharonovd) | 493 |
-| [@CLAassistant](https://github.com/CLAassistant) | 241 |
 | [@xmo-odoo](https://github.com/xmo-odoo) | 159 |
-| [@codecov-io](https://github.com/codecov-io) | 157 |
 | [@0xc0170](https://github.com/0xc0170) | 101 |
 | [@CeciliaHinga](https://github.com/CeciliaHinga) | 91 |
 | [@TravisBuddy](https://github.com/TravisBuddy) | 87 |
 | [@zhuangjiaju](https://github.com/zhuangjiaju) | 87 |
-| [@bors](https://github.com/bors) | 86 |
-| [@liferay-continuous-integration](https://github.com/liferay-continuous-integration) | 86 |
+| [@smileycreations15](https://github.com/smileycreations15) | 84 |
+| [@lin-d-hop](https://github.com/lin-d-hop) | 74 |
+| [@istio-testing](https://github.com/istio-testing) | 71 |
+| [@odoomergebotsacrifice-reviewer](https://github.com/odoomergebotsacrifice-reviewer) | 66 |
 
 #### issue
 | user | count |
 | ---- | ----- |
 | [@sharonovd](https://github.com/sharonovd) | 248 |
-| [@favroautomation](https://github.com/favroautomation) | 192 |
 | [@lstjsuperman](https://github.com/lstjsuperman) | 172 |
 | [@lenve](https://github.com/lenve) | 114 |
 | [@mxplusb](https://github.com/mxplusb) | 112 |
@@ -32,6 +31,7 @@
 | [@Aokromes](https://github.com/Aokromes) | 86 |
 | [@nick-woodward](https://github.com/nick-woodward) | 81 |
 | [@lin-d-hop](https://github.com/lin-d-hop) | 79 |
+| [@BrianZanti](https://github.com/BrianZanti) | 74 |
 
 #### create
 | user | count |
@@ -40,12 +40,12 @@
 | [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1310 |
 | [@sanjipkumar](https://github.com/sanjipkumar) | 695 |
 | [@xmo-odoo](https://github.com/xmo-odoo) | 486 |
-| [@angular-builds](https://github.com/angular-builds) | 425 |
 | [@gartung](https://github.com/gartung) | 320 |
-| [@efarbereger](https://github.com/efarbereger) | 317 |
-| [@idsqat1](https://github.com/idsqat1) | 215 |
 | [@Andyname](https://github.com/Andyname) | 210 |
-| [@test987987](https://github.com/test987987) | 208 |
+| [@BehnamAxo](https://github.com/BehnamAxo) | 200 |
+| [@modular-magician](https://github.com/modular-magician) | 196 |
+| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 192 |
+| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
 
 #### pr
 | user | count |
@@ -168,10 +168,10 @@
 | [@stepps00](https://github.com/stepps00) | 247 |
 | [@amontenegro](https://github.com/amontenegro) | 236 |
 | [@elasticmachine](https://github.com/elasticmachine) | 220 |
-| [@test987987](https://github.com/test987987) | 208 |
 | [@smanders](https://github.com/smanders) | 206 |
 | [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
 | [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 192 |
+| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 191 |
 
 #### golem
 | user | count |
@@ -239,11 +239,11 @@
 | [@stale[bot]](https://github.com/stale[bot]) | 254 |
 | [@xiaospider](https://github.com/xiaospider) | 214 |
 | [@DevRelations3](https://github.com/DevRelations3) | 214 |
+| [@favroautomation](https://github.com/favroautomation) | 192 |
 | [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 108 |
 | [@adguard-bot](https://github.com/adguard-bot) | 101 |
 | [@vscodebot[bot]](https://github.com/vscodebot[bot]) | 94 |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 91 |
-| [@cs2113-feedback-bot](https://github.com/cs2113-feedback-bot) | 81 |
 
 #### create
 | bot | count |
@@ -256,8 +256,8 @@
 | [@renovate[bot]](https://github.com/renovate[bot]) | 2506 |
 | [@codestar-github-bot-1](https://github.com/codestar-github-bot-1) | 1931 |
 | [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 1114 |
+| [@angular-builds](https://github.com/angular-builds) | 425 |
 | [@bitnami-bot](https://github.com/bitnami-bot) | 354 |
-| [@tree-bot](https://github.com/tree-bot) | 288 |
 
 #### release
 | bot | count |
@@ -297,9 +297,9 @@
 | [@renovate[bot]](https://github.com/renovate[bot]) | 1770 |
 | [@delete-merged-branch[bot]](https://github.com/delete-merged-branch[bot]) | 547 |
 | [@tree-bot](https://github.com/tree-bot) | 287 |
+| [@test987987](https://github.com/test987987) | 208 |
 | [@bors[bot]](https://github.com/bors[bot]) | 137 |
 | [@dotnet-maestro[bot]](https://github.com/dotnet-maestro[bot]) | 130 |
-| [@dotnet-bot](https://github.com/dotnet-bot) | 91 |
 
 #### push
 | bot | count |
@@ -352,12 +352,12 @@
 | [CircleCITestOrg/smoke-test-test-repo](https://github.com/CircleCITestOrg/smoke-test-test-repo) | 1286 |
 | [JafraCosmetics/aws_jafra_us_hybris](https://github.com/JafraCosmetics/aws_jafra_us_hybris) | 695 |
 | [google-test2/signcla-probe-repo](https://github.com/google-test2/signcla-probe-repo) | 575 |
-| [efarbereger/tmp_clock_repo](https://github.com/efarbereger/tmp_clock_repo) | 317 |
 | [mirror-land/bzip2](https://github.com/mirror-land/bzip2) | 288 |
 | [odoo-mergebot-testing-org/proj](https://github.com/odoo-mergebot-testing-org/proj) | 271 |
 | [test987987/test12](https://github.com/test987987/test12) | 208 |
 | [Andyname/android_hardware_qcom_media](https://github.com/Andyname/android_hardware_qcom_media) | 202 |
 | [elastic/built-docs](https://github.com/elastic/built-docs) | 158 |
+| [rdxvsrmv/OfficeDocs-OfficeUpdates-test](https://github.com/rdxvsrmv/OfficeDocs-OfficeUpdates-test) | 135 |
 
 #### pr
 | repo | count |
