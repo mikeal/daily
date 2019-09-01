@@ -8,23 +8,21 @@
 #### icomment
 | user | count |
 | ---- | ----- |
-| [@openshift-ci-robot](https://github.com/openshift-ci-robot) | 978 |
 | [@sharonovd](https://github.com/sharonovd) | 493 |
 | [@CLAassistant](https://github.com/CLAassistant) | 241 |
-| [@k8s-ci-robot](https://github.com/k8s-ci-robot) | 215 |
-| [@conda-forge-linter](https://github.com/conda-forge-linter) | 170 |
-| [@cmsbuild](https://github.com/cmsbuild) | 163 |
 | [@xmo-odoo](https://github.com/xmo-odoo) | 159 |
 | [@codecov-io](https://github.com/codecov-io) | 157 |
-| [@keksobot](https://github.com/keksobot) | 155 |
-| [@coveralls](https://github.com/coveralls) | 107 |
+| [@0xc0170](https://github.com/0xc0170) | 101 |
+| [@CeciliaHinga](https://github.com/CeciliaHinga) | 91 |
+| [@TravisBuddy](https://github.com/TravisBuddy) | 87 |
+| [@zhuangjiaju](https://github.com/zhuangjiaju) | 87 |
+| [@bors](https://github.com/bors) | 86 |
+| [@liferay-continuous-integration](https://github.com/liferay-continuous-integration) | 86 |
 
 #### issue
 | user | count |
 | ---- | ----- |
 | [@sharonovd](https://github.com/sharonovd) | 248 |
-| [@xiaospider](https://github.com/xiaospider) | 214 |
-| [@DevRelations3](https://github.com/DevRelations3) | 214 |
 | [@favroautomation](https://github.com/favroautomation) | 192 |
 | [@lstjsuperman](https://github.com/lstjsuperman) | 172 |
 | [@lenve](https://github.com/lenve) | 114 |
@@ -32,25 +30,26 @@
 | [@ssi-qa](https://github.com/ssi-qa) | 107 |
 | [@jayjaybillings](https://github.com/jayjaybillings) | 102 |
 | [@Aokromes](https://github.com/Aokromes) | 86 |
+| [@nick-woodward](https://github.com/nick-woodward) | 81 |
+| [@lin-d-hop](https://github.com/lin-d-hop) | 79 |
 
 #### create
 | user | count |
 | ---- | ----- |
-| [@direwolf-github](https://github.com/direwolf-github) | 8910 |
-| [@svc-software-factory](https://github.com/svc-software-factory) | 4786 |
 | [@anthonysterling](https://github.com/anthonysterling) | 2388 |
-| [@codestar-github-bot-1](https://github.com/codestar-github-bot-1) | 1931 |
 | [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1310 |
-| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 1114 |
 | [@sanjipkumar](https://github.com/sanjipkumar) | 695 |
 | [@xmo-odoo](https://github.com/xmo-odoo) | 486 |
 | [@angular-builds](https://github.com/angular-builds) | 425 |
 | [@gartung](https://github.com/gartung) | 320 |
+| [@efarbereger](https://github.com/efarbereger) | 317 |
+| [@idsqat1](https://github.com/idsqat1) | 215 |
+| [@Andyname](https://github.com/Andyname) | 210 |
+| [@test987987](https://github.com/test987987) | 208 |
 
 #### pr
 | user | count |
 | ---- | ----- |
-| [@direwolf-github](https://github.com/direwolf-github) | 4255 |
 | [@anthonysterling](https://github.com/anthonysterling) | 571 |
 | [@rdxvsrmv](https://github.com/rdxvsrmv) | 223 |
 | [@arlac77](https://github.com/arlac77) | 165 |
@@ -59,7 +58,8 @@
 | [@scala-steward](https://github.com/scala-steward) | 115 |
 | [@bt-admin](https://github.com/bt-admin) | 111 |
 | [@nick-woodward](https://github.com/nick-woodward) | 111 |
-| [@keksobot](https://github.com/keksobot) | 108 |
+| [@NullMDR](https://github.com/NullMDR) | 108 |
+| [@GulajavaMinistudio](https://github.com/GulajavaMinistudio) | 106 |
 
 #### prcomment
 | user | count |
@@ -141,9 +141,9 @@
 | [@NICE-TeamCity](https://github.com/NICE-TeamCity) | 23 |
 | [@git2017baker](https://github.com/git2017baker) | 22 |
 | [@FakelsHub](https://github.com/FakelsHub) | 20 |
-| [@conda-forge-linter](https://github.com/conda-forge-linter) | 18 |
 | [@NiklasWang](https://github.com/NiklasWang) | 18 |
 | [@AsmitaBh](https://github.com/AsmitaBh) | 18 |
+| [@NovaRain](https://github.com/NovaRain) | 15 |
 
 #### push
 | user | count |
@@ -154,15 +154,14 @@
 | [@bossm](https://github.com/bossm) | 8566 |
 | [@ewardThaine](https://github.com/ewardThaine) | 7567 |
 | [@willcbaker-ext](https://github.com/willcbaker-ext) | 5355 |
-| [@direwolf-github](https://github.com/direwolf-github) | 4987 |
 | [@liferay-continuous-integration-hu](https://github.com/liferay-continuous-integration-hu) | 2505 |
 | [@franck-paul](https://github.com/franck-paul) | 2342 |
 | [@pakeji](https://github.com/pakeji) | 2270 |
+| [@lfd-lists](https://github.com/lfd-lists) | 2263 |
 
 #### del
 | user | count |
 | ---- | ----- |
-| [@direwolf-github](https://github.com/direwolf-github) | 3773 |
 | [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1278 |
 | [@nick-woodward](https://github.com/nick-woodward) | 821 |
 | [@ionelmc](https://github.com/ionelmc) | 343 |
@@ -172,6 +171,7 @@
 | [@test987987](https://github.com/test987987) | 208 |
 | [@smanders](https://github.com/smanders) | 206 |
 | [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
+| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 192 |
 
 #### golem
 | user | count |
@@ -209,13 +209,13 @@
 | [@dependabot[bot]](https://github.com/dependabot[bot]) | 17507 |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 11435 |
 | [@pull[bot]](https://github.com/pull[bot]) | 8487 |
+| [@direwolf-github](https://github.com/direwolf-github) | 4255 |
 | [@renovate[bot]](https://github.com/renovate[bot]) | 3488 |
 | [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 384 |
 | [@pyup-bot](https://github.com/pyup-bot) | 378 |
 | [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 345 |
 | [@snyk-bot](https://github.com/snyk-bot) | 293 |
 | [@dotnet-maestro[bot]](https://github.com/dotnet-maestro[bot]) | 277 |
-| [@jenkins-x-bot](https://github.com/jenkins-x-bot) | 221 |
 
 #### icomment
 | bot | count |
@@ -225,11 +225,11 @@
 | [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 2171 |
 | [@codecov[bot]](https://github.com/codecov[bot]) | 2027 |
 | [@lock[bot]](https://github.com/lock[bot]) | 1750 |
+| [@openshift-ci-robot](https://github.com/openshift-ci-robot) | 978 |
 | [@dependabot[bot]](https://github.com/dependabot[bot]) | 825 |
 | [@now[bot]](https://github.com/now[bot]) | 435 |
 | [@stale[bot]](https://github.com/stale[bot]) | 427 |
 | [@codeclimate[bot]](https://github.com/codeclimate[bot]) | 368 |
-| [@netlify[bot]](https://github.com/netlify[bot]) | 329 |
 
 #### issue
 | bot | count |
@@ -237,13 +237,27 @@
 | [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 1326 |
 | [@debricked[bot]](https://github.com/debricked[bot]) | 366 |
 | [@stale[bot]](https://github.com/stale[bot]) | 254 |
+| [@xiaospider](https://github.com/xiaospider) | 214 |
+| [@DevRelations3](https://github.com/DevRelations3) | 214 |
 | [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 108 |
 | [@adguard-bot](https://github.com/adguard-bot) | 101 |
 | [@vscodebot[bot]](https://github.com/vscodebot[bot]) | 94 |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 91 |
 | [@cs2113-feedback-bot](https://github.com/cs2113-feedback-bot) | 81 |
-| [@whitesource-bolt-for-github[bot]](https://github.com/whitesource-bolt-for-github[bot]) | 57 |
-| [@cs2103-feedback-bot](https://github.com/cs2103-feedback-bot) | 57 |
+
+#### create
+| bot | count |
+| ---- | ----- |
+| [@dependabot[bot]](https://github.com/dependabot[bot]) | 17033 |
+| [@direwolf-github](https://github.com/direwolf-github) | 8910 |
+| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 7490 |
+| [@svc-software-factory](https://github.com/svc-software-factory) | 4786 |
+| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 3867 |
+| [@renovate[bot]](https://github.com/renovate[bot]) | 2506 |
+| [@codestar-github-bot-1](https://github.com/codestar-github-bot-1) | 1931 |
+| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 1114 |
+| [@bitnami-bot](https://github.com/bitnami-bot) | 354 |
+| [@tree-bot](https://github.com/tree-bot) | 288 |
 
 #### release
 | bot | count |
@@ -273,25 +287,12 @@
 | [@fixmie[bot]](https://github.com/fixmie[bot]) | 6 |
 | [@accesslint[bot]](https://github.com/accesslint[bot]) | 5 |
 
-#### create
-| bot | count |
-| ---- | ----- |
-| [@dependabot[bot]](https://github.com/dependabot[bot]) | 17033 |
-| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 7490 |
-| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 3867 |
-| [@renovate[bot]](https://github.com/renovate[bot]) | 2506 |
-| [@bitnami-bot](https://github.com/bitnami-bot) | 354 |
-| [@tree-bot](https://github.com/tree-bot) | 288 |
-| [@jenkins-x-bot](https://github.com/jenkins-x-bot) | 258 |
-| [@pantheon-ci-bot](https://github.com/pantheon-ci-bot) | 223 |
-| [@imgbot[bot]](https://github.com/imgbot[bot]) | 160 |
-| [@wso2-jenkins-bot](https://github.com/wso2-jenkins-bot) | 158 |
-
 #### del
 | bot | count |
 | ---- | ----- |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 5348 |
 | [@dependabot[bot]](https://github.com/dependabot[bot]) | 4394 |
+| [@direwolf-github](https://github.com/direwolf-github) | 3773 |
 | [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 2117 |
 | [@renovate[bot]](https://github.com/renovate[bot]) | 1770 |
 | [@delete-merged-branch[bot]](https://github.com/delete-merged-branch[bot]) | 547 |
@@ -299,21 +300,20 @@
 | [@bors[bot]](https://github.com/bors[bot]) | 137 |
 | [@dotnet-maestro[bot]](https://github.com/dotnet-maestro[bot]) | 130 |
 | [@dotnet-bot](https://github.com/dotnet-bot) | 91 |
-| [@depfu[bot]](https://github.com/depfu[bot]) | 83 |
 
 #### push
 | bot | count |
 | ---- | ----- |
 | [@renovate[bot]](https://github.com/renovate[bot]) | 5334 |
+| [@direwolf-github](https://github.com/direwolf-github) | 4987 |
 | [@pull[bot]](https://github.com/pull[bot]) | 4240 |
 | [@renovate-bot](https://github.com/renovate-bot) | 3682 |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 3183 |
 | [@newstools](https://github.com/newstools) | 2923 |
 | [@dependabot[bot]](https://github.com/dependabot[bot]) | 889 |
+| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 614 |
+| [@cmsbuild](https://github.com/cmsbuild) | 520 |
 | [@zeit-github-tester[bot]](https://github.com/zeit-github-tester[bot]) | 498 |
-| [@github-actions[bot]](https://github.com/github-actions[bot]) | 451 |
-| [@bitnami-bot](https://github.com/bitnami-bot) | 350 |
-| [@dotnet-maestro[bot]](https://github.com/dotnet-maestro[bot]) | 347 |
 
 
 ### Activity (Repos)

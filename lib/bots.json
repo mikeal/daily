@@ -1,1 +1,12 @@
-[ "newstools" ]
+[ "newstools",
+  "openshift-ci-robot",
+  "k8s-ci-robot",
+  "conda-forge-linter",
+  "cmsbuild",
+  "keksobot",
+  "coveralls",
+  "xiaospider",
+  "DevRelations3",
+  "direwolf-github",
+  "svc-software-factory"
+]
