@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 const regression = require('./lib/regression')
+const markdown = require('./lib/markdown')
 const min = require('../min-gharchive')
 const fs = require('fs')
 const zlib = require('zlib')
@@ -38,21 +39,37 @@ const pullRange = async argv => {
   }
 }
 
+const regname = (basepath, ts) => {
+  if (!basepath.endsWith('/')) basepath += '/'
+  const year = ts.getUTCFullYear()
+  const month = (ts.getUTCMonth() + 1).toString().padStart(2, '0')
+  const day = ts.getUTCDate().toString().toString().padStart(2, '0')
+  const filename = `${basepath}${year}-${month}-${day}.json.gz`
+  return filename
+}
+
 const runRegression = async argv => {
   if (!argv.datetime) argv.datetime = new Date(Date.now() - (onehour * 24))
   else argv.datetime = new Date(argv.datetime)
   const results = await regression(argv.input, argv.datetime)
   if (argv.output) {
-    let basepath = argv.output
-    if (!basepath.endsWith('/')) basepath += '/'
-    const ts = argv.datetime
-    const year = ts.getUTCFullYear()
-    const month = (ts.getUTCMonth() + 1).toString().padStart(2, '0')
-    const day = ts.getUTCDate().toString().toString().padStart(2, '0')
-    const filename = `${basepath}${year}-${month}-${day}.json.gz`
+    const filename = regname(argv.output, argv.datetime)
     fs.writeFileSync(filename, zlib.gzipSync(JSON.stringify(results)))    
   } else {
     console.log(inspect(results, { depth: Infinity }))
+  }
+}
+
+const runMarkdown = async argv => {
+  if (!argv.datetime) argv.datetime = new Date(Date.now() - (onehour * 24))
+  else argv.datetime = new Date(argv.datetime)
+  const filename = regname(argv.input, argv.datetime)
+  const reg = JSON.parse(zlib.gunzipSync(fs.readFileSync(filename)).toString())
+  const mk = await markdown(reg, argv.datetime)
+  if (argv.output) {
+    fs.writeFileSync(argv.output, mk) 
+  } else {
+    console.log(mk)
   }
 }
 
@@ -67,8 +84,16 @@ const regressionOptions = yargs => {
   outputOptions(yargs)
   yargs.option('input', {
     alias: 'i',
-    description: 'Input directory',
+    description: 'input directory',
     default: './data/min'
+  })
+}
+const markdownOptions = yargs => {
+  outputOptions(yargs)
+  yargs.option('input', {
+    alias: 'i',
+    description: 'input directory',
+    default: './data/reg'
   })
 }
 
@@ -77,6 +102,7 @@ const args = yargs
   .command('pull-hour [datetime]', 'pull an hour of gharchive', outputOptions, pullHour)
   .command('pull <starttime> <endtime>', 'pull a timerange', outputOptions, pullRange)
   .command('regression [datetime]', 'build regression analysis for a day', regressionOptions, runRegression)
+  .command('markdown [datetime]', 'build markdown page for the day', markdownOptions, runMarkdown)
   .argv
 
 if (!args._.length) {
