@@ -202,7 +202,7 @@
 
 ### Activity (repo)
 #### icomment
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) | 1282 |
 | [tarantool/cartridge](https://github.com/tarantool/cartridge) | 493 |
@@ -216,7 +216,7 @@
 | [flutter/flutter](https://github.com/flutter/flutter) | 215 |
 
 #### issue
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [debricked/debricked-test-integration](https://github.com/debricked/debricked-test-integration) | 366 |
 | [tarantool/cartridge](https://github.com/tarantool/cartridge) | 250 |
@@ -230,7 +230,7 @@
 | [ssi-qa/TestSSI](https://github.com/ssi-qa/TestSSI) | 107 |
 
 #### create
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [direwolf-github/my-app](https://github.com/direwolf-github/my-app) | 1530 |
 | [CircleCITestOrg/smoke-test-test-repo](https://github.com/CircleCITestOrg/smoke-test-test-repo) | 1286 |
@@ -244,7 +244,7 @@
 | [elastic/built-docs](https://github.com/elastic/built-docs) | 158 |
 
 #### pr
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [rdxvsrmv/OfficeDocs-OfficeUpdates-test](https://github.com/rdxvsrmv/OfficeDocs-OfficeUpdates-test) | 223 |
 | [google-test/signcla-probe-repo](https://github.com/google-test/signcla-probe-repo) | 127 |
@@ -258,7 +258,7 @@
 | [afik/test-repo](https://github.com/afik/test-repo) | 80 |
 
 #### prcomment
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [andela/ah-92explorers-frontend](https://github.com/andela/ah-92explorers-frontend) | 452 |
 | [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | 212 |
@@ -272,7 +272,7 @@
 | [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps) | 105 |
 
 #### watch
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [liyasthomas/postwoman](https://github.com/liyasthomas/postwoman) | 428 |
 | [wtfutil/wtf](https://github.com/wtfutil/wtf) | 408 |
@@ -286,7 +286,7 @@
 | [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 182 |
 
 #### fork
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 101 |
 | [recruiting-system/spring-boot-test-starter-2019-8-27-16-8-5-951](https://github.com/recruiting-system/spring-boot-test-starter-2019-8-27-16-8-5-951) | 58 |
@@ -300,7 +300,7 @@
 | [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | 39 |
 
 #### release
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [polmr/MEGAsync](https://github.com/polmr/MEGAsync) | 137 |
 | [meganz/MEGAsync](https://github.com/meganz/MEGAsync) | 108 |
@@ -314,7 +314,7 @@
 | [fedelodo/YASPAT](https://github.com/fedelodo/YASPAT) | 18 |
 
 #### member
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [haoxg/assignment-1811](https://github.com/haoxg/assignment-1811) | 29 |
 | [operep/birmingham-dev-academy](https://github.com/operep/birmingham-dev-academy) | 24 |
@@ -328,7 +328,7 @@
 | [VtrGuerra/devops-ac01](https://github.com/VtrGuerra/devops-ac01) | 8 |
 
 #### ccomment
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [siggetest/githubtest](https://github.com/siggetest/githubtest) | 70 |
 | [bvcms/bvcms](https://github.com/bvcms/bvcms) | 41 |
@@ -342,7 +342,7 @@
 | [aaditya2290/KATA](https://github.com/aaditya2290/KATA) | 18 |
 
 #### push
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [2aef/a2ch](https://github.com/2aef/a2ch) | 36945 |
 | [othhotro/Roo.Exe](https://github.com/othhotro/Roo.Exe) | 19909 |
@@ -356,7 +356,7 @@
 | [m1ha5/testing](https://github.com/m1ha5/testing) | 1840 |
 
 #### del
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [direwolf-github/my-app](https://github.com/direwolf-github/my-app) | 1537 |
 | [CircleCITestOrg/smoke-test-test-repo](https://github.com/CircleCITestOrg/smoke-test-test-repo) | 1278 |
@@ -370,7 +370,7 @@
 | [d14na/zeronet-explorer](https://github.com/d14na/zeronet-explorer) | 201 |
 
 #### golem
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [bcfgothenburg/HT19](https://github.com/bcfgothenburg/HT19) | 100 |
 | [OPEnSLab-OSU/OPEnS-Lab-Home](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home) | 77 |
@@ -384,7 +384,7 @@
 | [labseu2-anonymous-team-feedback/Backend](https://github.com/labseu2-anonymous-team-feedback/Backend) | 41 |
 
 #### public
-| user | count |
+| repo | count |
 | ---- | ----- |
 | [mssaisandeep/kong-oidc](https://github.com/mssaisandeep/kong-oidc) | 4 |
 | [maxthonl/hello-world](https://github.com/maxthonl/hello-world) | 3 |
