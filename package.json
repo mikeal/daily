@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "action": "./cli.js action"
   },
   "keywords": [],
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
   "license": "(Apache-2.0 AND MIT)",
   "dependencies": {
     "json-stream": "^1.0.0",
+    "min-gharchive": "0.0.0",
     "yargs": "^14.0.0"
   },
   "devDependencies": {

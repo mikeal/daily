@@ -1,26 +1,14 @@
 #!/usr/bin/env node
 const regression = require('./lib/regression')
 const markdown = require('./lib/markdown')
-const min = require('../min-gharchive')
+const action = require('./lib/action')
+const pullHour = require('./lib/pull-hour')
+const min = require('min-gharchive')
 const fs = require('fs')
 const zlib = require('zlib')
 const { inspect } = require('util')
 
 const onehour = 1000 * 60 * 60
-
-const pullHour = async argv => {
-  const dt = argv.datetime ? new Date(argv.datetime) : new Date(Date.now() - onehour)
-  let outs
-  if (argv.output) {
-    outs = zlib.createGzip().pipe(fs.createWriteStream(argv.output))
-  } else {
-    outs = process.stdout
-  }
-  for await (const event of min(dt)) {
-    outs.write(JSON.stringify(event))
-    outs.write('\n')
-  }
-}
 
 const pullRange = async argv => {
   let start = new Date(argv.starttime)
@@ -104,6 +92,7 @@ const args = yargs
   .command('pull <starttime> <endtime>', 'pull a timerange', outputOptions, pullRange)
   .command('regression [datetime]', 'build regression analysis for a day', regressionOptions, runRegression)
   .command('markdown [datetime]', 'build markdown page for the day', markdownOptions, runMarkdown)
+  .command('action', 'run the hourly github action', () => {}, action)
   .argv
 
 if (!args._.length) {
