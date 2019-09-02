@@ -65,6 +65,7 @@ const runMarkdown = async argv => {
   else argv.datetime = new Date(argv.datetime)
   const filename = regname(argv.input, argv.datetime)
   const reg = JSON.parse(zlib.gunzipSync(fs.readFileSync(filename)).toString())
+  // console.log(inspect({all: reg.all, unique: reg.unique}, {depth: Infinity}))
   const mk = await markdown(reg, argv.datetime)
   if (argv.output) {
     fs.writeFileSync(argv.output, mk) 

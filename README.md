@@ -1,6 +1,17 @@
 # Wed Aug 28 2019
 
+71,840 users watched 
+61,646 repositories. 
+428 users watched [liyasthomas/postwoman](https://github.com/liyasthomas/postwoman), 408 users watched [wtfutil/wtf](https://github.com/wtfutil/wtf), 335 users watched [deepmind/open_spiel](https://github.com/deepmind/open_spiel), 319 users watched [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days), and 
+298 users watched [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation).
 
+There were 95,418 comments on issues by 34,813 users and 306 bots in 28,608 repositories.
+25,731 new issues were opened by 15,651 users and 43 bots in 14,529 repositories.
+16,806 issues were closed by 8,426 users and 54 bots in 8,400 repositories.
+
+An additional 30,438 comments were made on pull requests by 6,878 users and 15 bots in 4,507 repositories.
+74,553 new pull requests were opened by 23,378 users and 77 bots in 44,504 repositories.
+56,629 pull requests were closed by 20,763 users and 99 bots in 29,505 repositories.
 
 ## Top Charts
 
@@ -12,12 +23,12 @@
 | [@xmo-odoo](https://github.com/xmo-odoo) | 159 |
 | [@0xc0170](https://github.com/0xc0170) | 101 |
 | [@CeciliaHinga](https://github.com/CeciliaHinga) | 91 |
-| [@TravisBuddy](https://github.com/TravisBuddy) | 87 |
 | [@zhuangjiaju](https://github.com/zhuangjiaju) | 87 |
 | [@smileycreations15](https://github.com/smileycreations15) | 84 |
 | [@lin-d-hop](https://github.com/lin-d-hop) | 74 |
 | [@istio-testing](https://github.com/istio-testing) | 71 |
 | [@odoomergebotsacrifice-reviewer](https://github.com/odoomergebotsacrifice-reviewer) | 66 |
+| [@mellanox-github](https://github.com/mellanox-github) | 66 |
 
 #### issue
 | user | count |
