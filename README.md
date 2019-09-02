@@ -1,6 +1,6 @@
 # Wed Aug 28 2019
 
-71,840 users watched 
+Across all of GitHub 71,840 users watched 
 61,646 repositories. 
 428 users watched [liyasthomas/postwoman](https://github.com/liyasthomas/postwoman), 408 users watched [wtfutil/wtf](https://github.com/wtfutil/wtf), 335 users watched [deepmind/open_spiel](https://github.com/deepmind/open_spiel), 319 users watched [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days), and 
 298 users watched [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation).
