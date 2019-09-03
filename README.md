@@ -1,6 +1,6 @@
 # Mon Sep 02 2019
 
-Across all of GitHub 78,407 users watched 
+Across all of GitHub 78,406 users watched 
 66,748 repositories. 
 1743 users watched [cmiscm/leonsans](https://github.com/cmiscm/leonsans), 570 users watched [deepfakes/faceswap](https://github.com/deepfakes/faceswap), 300 users watched [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab), 260 users watched [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook), and 
 239 users watched [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet).
@@ -10,7 +10,7 @@ There were 101,169 comments on issues by 36,519 users and 325 bots in 30,571 rep
 21,404 issues were closed by 9,565 users and 58 bots in 9,456 repositories.
 
 An additional 30,252 comments were made on pull requests by 7,792 users and 16 bots in 4,880 repositories.
-67,530 new pull requests were opened by 24,772 users and 84 bots in 37,810 repositories.
+67,530 new pull requests were opened by 24,771 users and 85 bots in 37,810 repositories.
 60,676 pull requests were closed by 21,587 users and 99 bots in 31,714 repositories.
 
 ## Top Charts
@@ -52,11 +52,11 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@navneet10-code](https://github.com/navneet10-code) | 180 |
 | [@luis-ordering](https://github.com/luis-ordering) | 176 |
 | [@symphonyDev](https://github.com/symphonyDev) | 156 |
-| [@cmfgerrit](https://github.com/cmfgerrit) | 143 |
 | [@scala-steward](https://github.com/scala-steward) | 131 |
 | [@slskopytko](https://github.com/slskopytko) | 128 |
 | [@erezrokah](https://github.com/erezrokah) | 125 |
 | [@chepullreq1](https://github.com/chepullreq1) | 123 |
+| [@minux](https://github.com/minux) | 118 |
 
 #### pr
 | user | count |
@@ -103,7 +103,6 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 #### del
 | user | count |
 | ---- | ----- |
-| [@cmfgerrit](https://github.com/cmfgerrit) | 6909 |
 | [@imiklos](https://github.com/imiklos) | 582 |
 | [@michaelherold](https://github.com/michaelherold) | 315 |
 | [@liitfr](https://github.com/liitfr) | 271 |
@@ -113,6 +112,7 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@nelt](https://github.com/nelt) | 112 |
 | [@sommer](https://github.com/sommer) | 111 |
 | [@scepticulous](https://github.com/scepticulous) | 102 |
+| [@zetaraku](https://github.com/zetaraku) | 98 |
 
 #### prcomment
 | user | count |
@@ -159,16 +159,16 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 #### release
 | user | count |
 | ---- | ----- |
-| [@sqla-tester](https://github.com/sqla-tester) | 108 |
-| [@hmrc-web-operations](https://github.com/hmrc-web-operations) | 81 |
 | [@qmfrederik](https://github.com/qmfrederik) | 36 |
 | [@albedinsky](https://github.com/albedinsky) | 29 |
-| [@LinuxServer-CI](https://github.com/LinuxServer-CI) | 28 |
 | [@yubo](https://github.com/yubo) | 23 |
-| [@lingyi1162835314](https://github.com/lingyi1162835314) | 19 |
 | [@levinzonr](https://github.com/levinzonr) | 19 |
 | [@Wasp971](https://github.com/Wasp971) | 18 |
 | [@olegchorny](https://github.com/olegchorny) | 17 |
+| [@JakobFerdinand](https://github.com/JakobFerdinand) | 16 |
+| [@mcarbonneaux](https://github.com/mcarbonneaux) | 16 |
+| [@niftylettuce](https://github.com/niftylettuce) | 15 |
+| [@sideshowbarker](https://github.com/sideshowbarker) | 15 |
 
 #### member
 | user | count |
@@ -288,6 +288,7 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | bot | count |
 | ---- | ----- |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 8524 |
+| [@cmfgerrit](https://github.com/cmfgerrit) | 6909 |
 | [@direwolf-github](https://github.com/direwolf-github) | 3826 |
 | [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 2101 |
 | [@dependabot[bot]](https://github.com/dependabot[bot]) | 1573 |
@@ -296,7 +297,6 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@delete-merged-branch[bot]](https://github.com/delete-merged-branch[bot]) | 433 |
 | [@test987987](https://github.com/test987987) | 220 |
 | [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 192 |
-| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
 
 #### prcomment
 | bot | count |
@@ -330,15 +330,15 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | bot | count |
 | ---- | ----- |
 | [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 178 |
+| [@sqla-tester](https://github.com/sqla-tester) | 108 |
 | [@jenkins-x-bot](https://github.com/jenkins-x-bot) | 94 |
+| [@hmrc-web-operations](https://github.com/hmrc-web-operations) | 81 |
 | [@github-actions[bot]](https://github.com/github-actions[bot]) | 38 |
 | [@nodejs-changelog-writer[bot]](https://github.com/nodejs-changelog-writer[bot]) | 32 |
+| [@LinuxServer-CI](https://github.com/LinuxServer-CI) | 28 |
 | [@release-drafter[bot]](https://github.com/release-drafter[bot]) | 23 |
+| [@lingyi1162835314](https://github.com/lingyi1162835314) | 19 |
 | [@vtex-io-ci-cd[bot]](https://github.com/vtex-io-ci-cd[bot]) | 16 |
-| [@travi-bot](https://github.com/travi-bot) | 12 |
-| [@adobe-bot](https://github.com/adobe-bot) | 11 |
-| [@bitnami-bot](https://github.com/bitnami-bot) | 10 |
-| [@neos-bot](https://github.com/neos-bot) | 10 |
 
 
 ### Activity (Repos)
