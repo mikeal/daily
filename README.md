@@ -5,13 +5,13 @@ Across all of GitHub 78,406 users watched
 1743 users watched [cmiscm/leonsans](https://github.com/cmiscm/leonsans), 570 users watched [deepfakes/faceswap](https://github.com/deepfakes/faceswap), 300 users watched [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab), 260 users watched [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook), and 
 239 users watched [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet).
 
-There were 101,169 comments on issues by 36,519 users and 325 bots in 30,571 repositories.
+There were 101,169 comments on issues by 36,518 users and 326 bots in 30,571 repositories.
 32,537 new issues were opened by 16,131 users and 57 bots in 14,748 repositories.
 21,404 issues were closed by 9,565 users and 58 bots in 9,456 repositories.
 
 An additional 30,252 comments were made on pull requests by 7,792 users and 16 bots in 4,880 repositories.
-67,530 new pull requests were opened by 24,771 users and 85 bots in 37,810 repositories.
-60,676 pull requests were closed by 21,587 users and 99 bots in 31,714 repositories.
+67,530 new pull requests were opened by 24,765 users and 91 bots in 37,810 repositories.
+60,676 pull requests were closed by 21,582 users and 104 bots in 31,714 repositories.
 
 ## Top Charts
 
@@ -51,26 +51,26 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@navneet10-code](https://github.com/navneet10-code) | 180 |
 | [@luis-ordering](https://github.com/luis-ordering) | 176 |
 | [@symphonyDev](https://github.com/symphonyDev) | 156 |
-| [@scala-steward](https://github.com/scala-steward) | 131 |
 | [@slskopytko](https://github.com/slskopytko) | 128 |
 | [@erezrokah](https://github.com/erezrokah) | 125 |
 | [@chepullreq1](https://github.com/chepullreq1) | 123 |
 | [@minux](https://github.com/minux) | 118 |
 | [@nelt](https://github.com/nelt) | 112 |
+| [@Kaizen-Oasis](https://github.com/Kaizen-Oasis) | 104 |
 
 #### pr
 | user | count |
 | ---- | ----- |
 | [@zGrav](https://github.com/zGrav) | 142 |
-| [@scala-steward](https://github.com/scala-steward) | 132 |
 | [@erezrokah](https://github.com/erezrokah) | 103 |
-| [@kst-nhn-com](https://github.com/kst-nhn-com) | 86 |
 | [@MrsFlux](https://github.com/MrsFlux) | 78 |
-| [@yoshi-automation](https://github.com/yoshi-automation) | 77 |
 | [@kamilmysliwiec](https://github.com/kamilmysliwiec) | 76 |
-| [@OPSTestPPE](https://github.com/OPSTestPPE) | 74 |
-| [@martialblog](https://github.com/martialblog) | 70 |
-| [@bt-admin](https://github.com/bt-admin) | 68 |
+| [@myomin88re](https://github.com/myomin88re) | 61 |
+| [@hsiang307](https://github.com/hsiang307) | 61 |
+| [@homebysix](https://github.com/homebysix) | 59 |
+| [@ajinkya81](https://github.com/ajinkya81) | 58 |
+| [@alphaolomi](https://github.com/alphaolomi) | 56 |
+| [@saviofelixmuniz](https://github.com/saviofelixmuniz) | 56 |
 
 #### icomment
 | user | count |
