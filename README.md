@@ -20,15 +20,15 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | user | count |
 | ---- | ----- |
 | [@gugod](https://github.com/gugod) | 1457 |
-| [@donaldsouza](https://github.com/donaldsouza) | 1440 |
-| [@GitClock](https://github.com/GitClock) | 1439 |
-| [@bossm](https://github.com/bossm) | 1439 |
-| [@Ne00n](https://github.com/Ne00n) | 1439 |
-| [@hashibiroko](https://github.com/hashibiroko) | 1437 |
-| [@ItzLevvie](https://github.com/ItzLevvie) | 1311 |
-| [@TalibAzir](https://github.com/TalibAzir) | 1259 |
-| [@cryptobigbro](https://github.com/cryptobigbro) | 1246 |
-| [@saqib-ali](https://github.com/saqib-ali) | 1141 |
+| [@allenyllee](https://github.com/allenyllee) | 928 |
+| [@Dids](https://github.com/Dids) | 918 |
+| [@funilrys](https://github.com/funilrys) | 915 |
+| [@ddold](https://github.com/ddold) | 886 |
+| [@zhangguanzhang](https://github.com/zhangguanzhang) | 828 |
+| [@hknqp](https://github.com/hknqp) | 817 |
+| [@chuan12](https://github.com/chuan12) | 816 |
+| [@15600995244](https://github.com/15600995244) | 790 |
+| [@watsona4](https://github.com/watsona4) | 734 |
 
 #### issue
 | user | count |
