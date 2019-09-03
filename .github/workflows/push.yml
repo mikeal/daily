@@ -13,11 +13,13 @@ jobs:
       with:
         entrypoint: npm
         args: install
-    - name: Test
+    - name: Pull
       uses: actions/npm@master
       with:
         entrypoint: npm
         args: run action 
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
