@@ -6,7 +6,7 @@ Across all of GitHub 78,406 users watched
 239 users watched [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet).
 
 There were 101,169 comments on issues by 36,519 users and 325 bots in 30,571 repositories.
-32,537 new issues were opened by 16,133 users and 55 bots in 14,748 repositories.
+32,537 new issues were opened by 16,131 users and 57 bots in 14,748 repositories.
 21,404 issues were closed by 9,565 users and 58 bots in 9,456 repositories.
 
 An additional 30,252 comments were made on pull requests by 7,792 users and 16 bots in 4,880 repositories.
@@ -19,22 +19,20 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 #### push
 | user | count |
 | ---- | ----- |
-| [@emdashes](https://github.com/emdashes) | 3670 |
-| [@franck-paul](https://github.com/franck-paul) | 2541 |
-| [@himobi](https://github.com/himobi) | 2300 |
-| [@pakeji](https://github.com/pakeji) | 2291 |
-| [@drogus](https://github.com/drogus) | 2091 |
-| [@geos4s](https://github.com/geos4s) | 1937 |
-| [@m1ha5](https://github.com/m1ha5) | 1849 |
-| [@lfd-lists](https://github.com/lfd-lists) | 1831 |
-| [@yath](https://github.com/yath) | 1768 |
-| [@SockPuppetry](https://github.com/SockPuppetry) | 1635 |
+| [@gugod](https://github.com/gugod) | 1457 |
+| [@donaldsouza](https://github.com/donaldsouza) | 1440 |
+| [@GitClock](https://github.com/GitClock) | 1439 |
+| [@bossm](https://github.com/bossm) | 1439 |
+| [@Ne00n](https://github.com/Ne00n) | 1439 |
+| [@hashibiroko](https://github.com/hashibiroko) | 1437 |
+| [@ItzLevvie](https://github.com/ItzLevvie) | 1311 |
+| [@TalibAzir](https://github.com/TalibAzir) | 1259 |
+| [@cryptobigbro](https://github.com/cryptobigbro) | 1246 |
+| [@saqib-ali](https://github.com/saqib-ali) | 1141 |
 
 #### issue
 | user | count |
 | ---- | ----- |
-| [@koorellasuresh](https://github.com/koorellasuresh) | 479 |
-| [@IvanovDmytroA](https://github.com/IvanovDmytroA) | 427 |
 | [@MarekSuchanek](https://github.com/MarekSuchanek) | 392 |
 | [@7ameed](https://github.com/7ameed) | 220 |
 | [@miaojiang](https://github.com/miaojiang) | 192 |
@@ -43,11 +41,12 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@saviofelixmuniz](https://github.com/saviofelixmuniz) | 125 |
 | [@ssseasonnn](https://github.com/ssseasonnn) | 121 |
 | [@yusukemihara](https://github.com/yusukemihara) | 101 |
+| [@ssi-qa](https://github.com/ssi-qa) | 96 |
+| [@jlippold](https://github.com/jlippold) | 95 |
 
 #### create
 | user | count |
 | ---- | ----- |
-| [@hyibing](https://github.com/hyibing) | 310 |
 | [@JbIPS](https://github.com/JbIPS) | 181 |
 | [@navneet10-code](https://github.com/navneet10-code) | 180 |
 | [@luis-ordering](https://github.com/luis-ordering) | 176 |
@@ -57,6 +56,7 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@erezrokah](https://github.com/erezrokah) | 125 |
 | [@chepullreq1](https://github.com/chepullreq1) | 123 |
 | [@minux](https://github.com/minux) | 118 |
+| [@nelt](https://github.com/nelt) | 112 |
 
 #### pr
 | user | count |
@@ -237,10 +237,10 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 5516 |
 | [@direwolf-github](https://github.com/direwolf-github) | 5028 |
 | [@renovate[bot]](https://github.com/renovate[bot]) | 4460 |
+| [@emdashes](https://github.com/emdashes) | 3670 |
 | [@renovate-bot](https://github.com/renovate-bot) | 3604 |
 | [@pull[bot]](https://github.com/pull[bot]) | 3250 |
 | [@newstools](https://github.com/newstools) | 2698 |
-| [@what-time-is-it-bot](https://github.com/what-time-is-it-bot) | 2177 |
 
 #### create
 | bot | count |
@@ -262,13 +262,13 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@euserss](https://github.com/euserss) | 4419 |
 | [@pythonpeixun](https://github.com/pythonpeixun) | 2608 |
 | [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 816 |
+| [@koorellasuresh](https://github.com/koorellasuresh) | 479 |
+| [@IvanovDmytroA](https://github.com/IvanovDmytroA) | 427 |
 | [@favroautomation](https://github.com/favroautomation) | 260 |
 | [@vtex-io-docs-bot[bot]](https://github.com/vtex-io-docs-bot[bot]) | 216 |
 | [@xiaospider](https://github.com/xiaospider) | 192 |
 | [@debricked[bot]](https://github.com/debricked[bot]) | 169 |
 | [@stale[bot]](https://github.com/stale[bot]) | 161 |
-| [@bot-monkey-1](https://github.com/bot-monkey-1) | 100 |
-| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 84 |
 
 #### pr
 | bot | count |
