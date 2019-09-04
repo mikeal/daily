@@ -1,17 +1,17 @@
-# Mon Sep 02 2019
+# Tue Sep 03 2019
 
-Across all of GitHub 78,408 users watched 
-66,748 repositories. 
-1743 users watched [cmiscm/leonsans](https://github.com/cmiscm/leonsans), 570 users watched [deepfakes/faceswap](https://github.com/deepfakes/faceswap), 300 users watched [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab), 260 users watched [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook), and 
-239 users watched [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet).
+Across all of GitHub 86,395 users watched 
+72,983 repositories. 
+1058 users watched [cmiscm/leonsans](https://github.com/cmiscm/leonsans), 883 users watched [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab), 671 users watched [deepfakes/faceswap](https://github.com/deepfakes/faceswap), 393 users watched [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook), and 
+336 users watched [xadrianzetx/fullstack.ai](https://github.com/xadrianzetx/fullstack.ai).
 
-There were 101,169 comments on issues by 36,529 users and 315 bots in 30,571 repositories.
-32,537 new issues were opened by 16,135 users and 53 bots in 14,748 repositories.
-21,404 issues were closed by 9,568 users and 55 bots in 9,456 repositories.
+There were 128,473 comments on issues by 46,604 users and 359 bots in 34,309 repositories.
+35,236 new issues were opened by 20,080 users and 63 bots in 17,985 repositories.
+24,215 issues were closed by 11,781 users and 72 bots in 11,192 repositories.
 
-An additional 30,252 comments were made on pull requests by 7,793 users and 15 bots in 4,880 repositories.
-67,530 new pull requests were opened by 24,779 users and 77 bots in 37,810 repositories.
-60,676 pull requests were closed by 21,596 users and 90 bots in 31,714 repositories.
+An additional 43,402 comments were made on pull requests by 11,451 users and 16 bots in 6,547 repositories.
+73,342 new pull requests were opened by 31,990 users and 98 bots in 40,421 repositories.
+70,975 pull requests were closed by 27,545 users and 123 bots in 35,663 repositories.
 
 ## Top Charts
 
@@ -19,508 +19,522 @@ An additional 30,252 comments were made on pull requests by 7,793 users and 15 b
 #### push
 | user | count |
 | ---- | ----- |
-| [@LombiqBot](https://github.com/LombiqBot) | 35973 |
-| [@2aef](https://github.com/2aef) | 35221 |
-| [@othhotro](https://github.com/othhotro) | 19997 |
-| [@emdashes](https://github.com/emdashes) | 3670 |
-| [@franck-paul](https://github.com/franck-paul) | 2541 |
-| [@himobi](https://github.com/himobi) | 2300 |
-| [@pakeji](https://github.com/pakeji) | 2291 |
-| [@drogus](https://github.com/drogus) | 2091 |
-| [@geos4s](https://github.com/geos4s) | 1937 |
-| [@m1ha5](https://github.com/m1ha5) | 1849 |
-
-#### icomment
-| user | count |
-| ---- | ----- |
-| [@googlebot](https://github.com/googlebot) | 302 |
-| [@elasticmachine](https://github.com/elasticmachine) | 204 |
-| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 192 |
-| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 192 |
-| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
-| [@AmplabJenkins](https://github.com/AmplabJenkins) | 168 |
-| [@bot-monkey-1](https://github.com/bot-monkey-1) | 120 |
-| [@srvbpigh](https://github.com/srvbpigh) | 107 |
-| [@yunion-ci-robot](https://github.com/yunion-ci-robot) | 105 |
-| [@gopherbot](https://github.com/gopherbot) | 82 |
-
-#### issue
-| user | count |
-| ---- | ----- |
-| [@euserss](https://github.com/euserss) | 4419 |
-| [@pythonpeixun](https://github.com/pythonpeixun) | 2608 |
-| [@koorellasuresh](https://github.com/koorellasuresh) | 479 |
-| [@IvanovDmytroA](https://github.com/IvanovDmytroA) | 427 |
-| [@MarekSuchanek](https://github.com/MarekSuchanek) | 392 |
-| [@7ameed](https://github.com/7ameed) | 220 |
-| [@miaojiang](https://github.com/miaojiang) | 192 |
-| [@thadiun](https://github.com/thadiun) | 191 |
-| [@lstjsuperman](https://github.com/lstjsuperman) | 191 |
-| [@saviofelixmuniz](https://github.com/saviofelixmuniz) | 125 |
-
-#### create
-| user | count |
-| ---- | ----- |
-| [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1318 |
-| [@clrpackages](https://github.com/clrpackages) | 559 |
-| [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 402 |
-| [@CAA379](https://github.com/CAA379) | 366 |
-| [@erudatics](https://github.com/erudatics) | 329 |
-| [@hyibing](https://github.com/hyibing) | 310 |
-| [@qingqingqingtian](https://github.com/qingqingqingtian) | 243 |
-| [@autotester-one](https://github.com/autotester-one) | 212 |
-| [@kamiluo](https://github.com/kamiluo) | 195 |
-| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 192 |
-
-#### pr
-| user | count |
-| ---- | ----- |
-| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 384 |
-| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 384 |
-| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 383 |
-| [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 216 |
-| [@bot-monkey-1](https://github.com/bot-monkey-1) | 160 |
-| [@zGrav](https://github.com/zGrav) | 142 |
-| [@scala-steward](https://github.com/scala-steward) | 132 |
-| [@erezrokah](https://github.com/erezrokah) | 103 |
-| [@kst-nhn-com](https://github.com/kst-nhn-com) | 86 |
-| [@MrsFlux](https://github.com/MrsFlux) | 78 |
+| [@Vinfild](https://github.com/Vinfild) | 5958 |
+| [@gugod](https://github.com/gugod) | 1442 |
+| [@liferay-continuous-integration-hu](https://github.com/liferay-continuous-integration-hu) | 1372 |
+| [@testme42](https://github.com/testme42) | 1030 |
+| [@funilrys](https://github.com/funilrys) | 1012 |
+| [@nicopeters](https://github.com/nicopeters) | 939 |
+| [@allenyllee](https://github.com/allenyllee) | 928 |
+| [@Dids](https://github.com/Dids) | 896 |
+| [@ddold](https://github.com/ddold) | 872 |
+| [@chuan12](https://github.com/chuan12) | 833 |
 
 #### watch
 | user | count |
 | ---- | ----- |
-| [@hussaibi](https://github.com/hussaibi) | 495 |
-| [@dipu989](https://github.com/dipu989) | 460 |
-| [@reliefs](https://github.com/reliefs) | 245 |
-| [@honorarac](https://github.com/honorarac) | 209 |
-| [@abnerkaizer](https://github.com/abnerkaizer) | 152 |
-| [@marciopocebon](https://github.com/marciopocebon) | 151 |
-| [@stenpiren](https://github.com/stenpiren) | 150 |
-| [@mikemeier](https://github.com/mikemeier) | 149 |
-| [@thanhtoan1196](https://github.com/thanhtoan1196) | 136 |
-| [@LeonamTeixeraDeVasconcelos](https://github.com/LeonamTeixeraDeVasconcelos) | 129 |
-
-#### del
-| user | count |
-| ---- | ----- |
-| [@cmfgerrit](https://github.com/cmfgerrit) | 6909 |
-| [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1295 |
-| [@imiklos](https://github.com/imiklos) | 582 |
-| [@michaelherold](https://github.com/michaelherold) | 315 |
-| [@liitfr](https://github.com/liitfr) | 271 |
-| [@filipac](https://github.com/filipac) | 205 |
-| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 192 |
-| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
-| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 190 |
-| [@dmarczydlo](https://github.com/dmarczydlo) | 154 |
-
-#### prcomment
-| user | count |
-| ---- | ----- |
-| [@gestap](https://github.com/gestap) | 135 |
-| [@Sofasmile](https://github.com/Sofasmile) | 116 |
-| [@stickler-ci](https://github.com/stickler-ci) | 81 |
-| [@MartinHjelmare](https://github.com/MartinHjelmare) | 64 |
-| [@JimIOV](https://github.com/JimIOV) | 64 |
-| [@jasonmar](https://github.com/jasonmar) | 63 |
-| [@golangcibot](https://github.com/golangcibot) | 58 |
-| [@agzam](https://github.com/agzam) | 53 |
-| [@artrudov](https://github.com/artrudov) | 52 |
-| [@kevinchan159](https://github.com/kevinchan159) | 50 |
-
-#### golem
-| user | count |
-| ---- | ----- |
-| [@dalealleshouse](https://github.com/dalealleshouse) | 124 |
-| [@paulopinheiro1234](https://github.com/paulopinheiro1234) | 90 |
-| [@jankrassnigg](https://github.com/jankrassnigg) | 61 |
-| [@rebleo](https://github.com/rebleo) | 57 |
-| [@GabJango](https://github.com/GabJango) | 54 |
-| [@liqian-simit](https://github.com/liqian-simit) | 53 |
-| [@jaesukhwang95](https://github.com/jaesukhwang95) | 44 |
-| [@pannous](https://github.com/pannous) | 43 |
-| [@valeriavitale](https://github.com/valeriavitale) | 43 |
-| [@Jadiction](https://github.com/Jadiction) | 39 |
+| [@rob729](https://github.com/rob729) | 468 |
+| [@shivaylamba](https://github.com/shivaylamba) | 465 |
+| [@anubhav11march](https://github.com/anubhav11march) | 464 |
+| [@vaibhavmatta](https://github.com/vaibhavmatta) | 464 |
+| [@sonusourav](https://github.com/sonusourav) | 461 |
+| [@vulcangz](https://github.com/vulcangz) | 352 |
+| [@dimapin](https://github.com/dimapin) | 244 |
+| [@reliefs](https://github.com/reliefs) | 211 |
+| [@ppexxi](https://github.com/ppexxi) | 168 |
+| [@vlad88sv](https://github.com/vlad88sv) | 165 |
 
 #### fork
 | user | count |
 | ---- | ----- |
-| [@marciopocebon](https://github.com/marciopocebon) | 166 |
-| [@csu-anzai](https://github.com/csu-anzai) | 102 |
-| [@Muhendiz](https://github.com/Muhendiz) | 63 |
-| [@hsiang307](https://github.com/hsiang307) | 55 |
-| [@maxtingle11](https://github.com/maxtingle11) | 53 |
-| [@baitcenter](https://github.com/baitcenter) | 47 |
-| [@isgasho](https://github.com/isgasho) | 44 |
-| [@dgrreeg](https://github.com/dgrreeg) | 43 |
-| [@BYRNAN](https://github.com/BYRNAN) | 40 |
-| [@stjordanis](https://github.com/stjordanis) | 39 |
+| [@rbs-pli](https://github.com/rbs-pli) | 102 |
+| [@Avinash-acid](https://github.com/Avinash-acid) | 87 |
+| [@stjordanis](https://github.com/stjordanis) | 75 |
+| [@arya772](https://github.com/arya772) | 74 |
+| [@wade1990](https://github.com/wade1990) | 66 |
+| [@marciopocebon](https://github.com/marciopocebon) | 66 |
+| [@gui-works](https://github.com/gui-works) | 59 |
+| [@robotuser2-org](https://github.com/robotuser2-org) | 57 |
+| [@artmoca](https://github.com/artmoca) | 54 |
+| [@songzhengbo](https://github.com/songzhengbo) | 52 |
+
+#### pr
+| user | count |
+| ---- | ----- |
+| [@fdaciuk](https://github.com/fdaciuk) | 738 |
+| [@singsai](https://github.com/singsai) | 251 |
+| [@rdxvsrmv](https://github.com/rdxvsrmv) | 103 |
+| [@hipstersmoothie](https://github.com/hipstersmoothie) | 92 |
+| [@paulmelnikow](https://github.com/paulmelnikow) | 91 |
+| [@ZakharSkaletskyi](https://github.com/ZakharSkaletskyi) | 82 |
+| [@kmanning](https://github.com/kmanning) | 78 |
+| [@julien51](https://github.com/julien51) | 77 |
+| [@MuriloDalRi](https://github.com/MuriloDalRi) | 73 |
+| [@tarcieri](https://github.com/tarcieri) | 73 |
+
+#### create
+| user | count |
+| ---- | ----- |
+| [@gartung](https://github.com/gartung) | 1010 |
+| [@UnofficialJuliaMirrorBot](https://github.com/UnofficialJuliaMirrorBot) | 458 |
+| [@luis-ordering](https://github.com/luis-ordering) | 284 |
+| [@DBGzxx1001](https://github.com/DBGzxx1001) | 276 |
+| [@siserin](https://github.com/siserin) | 274 |
+| [@octravis](https://github.com/octravis) | 261 |
+| [@keipour](https://github.com/keipour) | 246 |
+| [@HW42](https://github.com/HW42) | 217 |
+| [@Tom-Willemsen](https://github.com/Tom-Willemsen) | 198 |
+| [@wmfgerrit](https://github.com/wmfgerrit) | 193 |
+
+#### icomment
+| user | count |
+| ---- | ----- |
+| [@knative-prow-robot](https://github.com/knative-prow-robot) | 227 |
+| [@istio-testing](https://github.com/istio-testing) | 201 |
+| [@tekton-robot](https://github.com/tekton-robot) | 159 |
+| [@alibuild](https://github.com/alibuild) | 148 |
+| [@enki-hq](https://github.com/enki-hq) | 133 |
+| [@hadoop-yetus](https://github.com/hadoop-yetus) | 114 |
+| [@flathubbot](https://github.com/flathubbot) | 104 |
+| [@gundalow](https://github.com/gundalow) | 102 |
+| [@SparkQA](https://github.com/SparkQA) | 95 |
+| [@ansibot](https://github.com/ansibot) | 88 |
+
+#### issue
+| user | count |
+| ---- | ----- |
+| [@BrianZanti](https://github.com/BrianZanti) | 563 |
+| [@thisandagain](https://github.com/thisandagain) | 326 |
+| [@MarekSuchanek](https://github.com/MarekSuchanek) | 258 |
+| [@lstjsuperman](https://github.com/lstjsuperman) | 219 |
+| [@kmanning](https://github.com/kmanning) | 200 |
+| [@thadiun](https://github.com/thadiun) | 191 |
+| [@miaojiang](https://github.com/miaojiang) | 191 |
+| [@darbyjohnston](https://github.com/darbyjohnston) | 125 |
+| [@spalger](https://github.com/spalger) | 123 |
+| [@artpolikarpov](https://github.com/artpolikarpov) | 114 |
+
+#### del
+| user | count |
+| ---- | ----- |
+| [@gartung](https://github.com/gartung) | 1005 |
+| [@danakt](https://github.com/danakt) | 683 |
+| [@YJBeetle](https://github.com/YJBeetle) | 212 |
+| [@magic53](https://github.com/magic53) | 186 |
+| [@erwango](https://github.com/erwango) | 180 |
+| [@ange-yaghi](https://github.com/ange-yaghi) | 156 |
+| [@UnofficialJuliaMirrorBot](https://github.com/UnofficialJuliaMirrorBot) | 151 |
+| [@jhinkey](https://github.com/jhinkey) | 150 |
+| [@nelt](https://github.com/nelt) | 112 |
+| [@adamabeshouse](https://github.com/adamabeshouse) | 89 |
 
 #### release
 | user | count |
 | ---- | ----- |
-| [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 178 |
-| [@sqla-tester](https://github.com/sqla-tester) | 108 |
-| [@hmrc-web-operations](https://github.com/hmrc-web-operations) | 81 |
-| [@qmfrederik](https://github.com/qmfrederik) | 36 |
-| [@albedinsky](https://github.com/albedinsky) | 29 |
-| [@LinuxServer-CI](https://github.com/LinuxServer-CI) | 28 |
-| [@yubo](https://github.com/yubo) | 23 |
-| [@lingyi1162835314](https://github.com/lingyi1162835314) | 19 |
-| [@levinzonr](https://github.com/levinzonr) | 19 |
-| [@Wasp971](https://github.com/Wasp971) | 18 |
+| [@testme42](https://github.com/testme42) | 51 |
+| [@Edwin-Luijten](https://github.com/Edwin-Luijten) | 33 |
+| [@Development482](https://github.com/Development482) | 27 |
+| [@janolaveide](https://github.com/janolaveide) | 26 |
+| [@longlho](https://github.com/longlho) | 24 |
+| [@yubo](https://github.com/yubo) | 24 |
+| [@re-autom8-ci](https://github.com/re-autom8-ci) | 24 |
+| [@ksooo](https://github.com/ksooo) | 24 |
+| [@TWLBot](https://github.com/TWLBot) | 23 |
+| [@VSC-Service-Account](https://github.com/VSC-Service-Account) | 19 |
+
+#### golem
+| user | count |
+| ---- | ----- |
+| [@manaswinidas](https://github.com/manaswinidas) | 70 |
+| [@WHK102](https://github.com/WHK102) | 59 |
+| [@appleiinc](https://github.com/appleiinc) | 55 |
+| [@Alanespartan](https://github.com/Alanespartan) | 53 |
+| [@GabJango](https://github.com/GabJango) | 51 |
+| [@nicolashimmelmann](https://github.com/nicolashimmelmann) | 49 |
+| [@whs12345](https://github.com/whs12345) | 45 |
+| [@jribacruz](https://github.com/jribacruz) | 45 |
+| [@logicmoo](https://github.com/logicmoo) | 44 |
+| [@kseymin](https://github.com/kseymin) | 44 |
+
+#### ccomment
+| user | count |
+| ---- | ----- |
+| [@siggetest](https://github.com/siggetest) | 116 |
+| [@MykolaSolyanko](https://github.com/MykolaSolyanko) | 86 |
+| [@rijunayak](https://github.com/rijunayak) | 60 |
+| [@JuliaRegistrator](https://github.com/JuliaRegistrator) | 29 |
+| [@bvcms-teamcity](https://github.com/bvcms-teamcity) | 27 |
+| [@collabAuto](https://github.com/collabAuto) | 24 |
+| [@xavierlepretre](https://github.com/xavierlepretre) | 23 |
+| [@collabTester18](https://github.com/collabTester18) | 22 |
+| [@hardion](https://github.com/hardion) | 22 |
+| [@taishi-matsumura](https://github.com/taishi-matsumura) | 21 |
+
+#### prcomment
+| user | count |
+| ---- | ----- |
+| [@CheezItMan](https://github.com/CheezItMan) | 113 |
+| [@daosbuild1](https://github.com/daosbuild1) | 108 |
+| [@vanvtt-0952](https://github.com/vanvtt-0952) | 106 |
+| [@stickler-ci](https://github.com/stickler-ci) | 87 |
+| [@golangcibot](https://github.com/golangcibot) | 75 |
+| [@HolyMonkey](https://github.com/HolyMonkey) | 73 |
+| [@sftim](https://github.com/sftim) | 68 |
+| [@nem035](https://github.com/nem035) | 64 |
+| [@gestap](https://github.com/gestap) | 63 |
+| [@MartinHjelmare](https://github.com/MartinHjelmare) | 59 |
 
 #### member
 | user | count |
 | ---- | ----- |
-| [@CAA379](https://github.com/CAA379) | 183 |
-| [@KnpLabs](https://github.com/KnpLabs) | 86 |
-| [@zilverline](https://github.com/zilverline) | 84 |
-| [@liuyrSilence](https://github.com/liuyrSilence) | 40 |
-| [@e-travel](https://github.com/e-travel) | 33 |
-| [@av-pavlov](https://github.com/av-pavlov) | 27 |
-| [@antonio2120](https://github.com/antonio2120) | 25 |
-| [@opencollective](https://github.com/opencollective) | 20 |
-| [@ncu-psl](https://github.com/ncu-psl) | 18 |
-| [@ZoHerinnot](https://github.com/ZoHerinnot) | 17 |
+| [@kirankumarkvn-TEMkt](https://github.com/kirankumarkvn-TEMkt) | 91 |
+| [@ualbertalib](https://github.com/ualbertalib) | 77 |
+| [@emencia](https://github.com/emencia) | 42 |
+| [@dianarNW](https://github.com/dianarNW) | 42 |
+| [@HenriqueMorato](https://github.com/HenriqueMorato) | 40 |
+| [@metaltoad](https://github.com/metaltoad) | 37 |
+| [@warmflasha](https://github.com/warmflasha) | 36 |
+| [@uport-project](https://github.com/uport-project) | 34 |
+| [@Trazalog](https://github.com/Trazalog) | 32 |
+| [@Kevin-CodeCrew](https://github.com/Kevin-CodeCrew) | 30 |
 
 #### public
 | user | count |
 | ---- | ----- |
-| [@victor-gonzalez-navarro](https://github.com/victor-gonzalez-navarro) | 32 |
-| [@afettouhi](https://github.com/afettouhi) | 19 |
-| [@adam-weiler](https://github.com/adam-weiler) | 14 |
-| [@iu-msis](https://github.com/iu-msis) | 8 |
-| [@2ujin](https://github.com/2ujin) | 8 |
-| [@ElmCompany](https://github.com/ElmCompany) | 8 |
-| [@mincos](https://github.com/mincos) | 8 |
-| [@arek512](https://github.com/arek512) | 7 |
-| [@Premashanth](https://github.com/Premashanth) | 6 |
-| [@BarnabyN](https://github.com/BarnabyN) | 6 |
-
-#### ccomment
-| user | count |
-| ---- | ----- |
-| [@siggetest](https://github.com/siggetest) | 110 |
-| [@Pako7](https://github.com/Pako7) | 78 |
-| [@rijunayak](https://github.com/rijunayak) | 73 |
-| [@redpint819](https://github.com/redpint819) | 24 |
-| [@JuliaRegistrator](https://github.com/JuliaRegistrator) | 21 |
-| [@DzianisMatveyenka](https://github.com/DzianisMatveyenka) | 21 |
-| [@glebglazyrin](https://github.com/glebglazyrin) | 17 |
-| [@geofis](https://github.com/geofis) | 17 |
-| [@frtennis1](https://github.com/frtennis1) | 15 |
-| [@burak-koksal-jotform](https://github.com/burak-koksal-jotform) | 14 |
+| [@aces](https://github.com/aces) | 17 |
+| [@lamlyg](https://github.com/lamlyg) | 17 |
+| [@hrithikv](https://github.com/hrithikv) | 16 |
+| [@iu-msis](https://github.com/iu-msis) | 13 |
+| [@hunterhug](https://github.com/hunterhug) | 11 |
+| [@Nikki-Colton](https://github.com/Nikki-Colton) | 10 |
+| [@Kricsi80](https://github.com/Kricsi80) | 9 |
+| [@ska-sa](https://github.com/ska-sa) | 9 |
+| [@karlpawlowicz](https://github.com/karlpawlowicz) | 9 |
+| [@dcm858](https://github.com/dcm858) | 8 |
 
 
 ### Activity (Bots)
-#### icomment
-| bot | count |
-| ---- | ----- |
-| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 5678 |
-| [@codecov[bot]](https://github.com/codecov[bot]) | 1771 |
-| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 1672 |
-| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 1181 |
-| [@codecov-io](https://github.com/codecov-io) | 957 |
-| [@coveralls](https://github.com/coveralls) | 764 |
-| [@liferay-continuous-integration](https://github.com/liferay-continuous-integration) | 644 |
-| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 605 |
-| [@openshift-ci-robot](https://github.com/openshift-ci-robot) | 578 |
-| [@k8s-ci-robot](https://github.com/k8s-ci-robot) | 558 |
-
-#### issue
-| bot | count |
-| ---- | ----- |
-| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 816 |
-| [@favroautomation](https://github.com/favroautomation) | 260 |
-| [@vtex-io-docs-bot[bot]](https://github.com/vtex-io-docs-bot[bot]) | 216 |
-| [@xiaospider](https://github.com/xiaospider) | 192 |
-| [@debricked[bot]](https://github.com/debricked[bot]) | 169 |
-| [@stale[bot]](https://github.com/stale[bot]) | 161 |
-| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 84 |
-| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 84 |
-| [@vscodebot[bot]](https://github.com/vscodebot[bot]) | 78 |
-| [@webcompat-bot](https://github.com/webcompat-bot) | 59 |
-
 #### push
 | bot | count |
 | ---- | ----- |
-| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 5516 |
-| [@direwolf-github](https://github.com/direwolf-github) | 5028 |
-| [@renovate[bot]](https://github.com/renovate[bot]) | 4460 |
-| [@renovate-bot](https://github.com/renovate-bot) | 3604 |
-| [@pull[bot]](https://github.com/pull[bot]) | 3250 |
-| [@newstools](https://github.com/newstools) | 2698 |
-| [@what-time-is-it-bot](https://github.com/what-time-is-it-bot) | 2177 |
-| [@speedtracker-bot](https://github.com/speedtracker-bot) | 1408 |
-| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 976 |
-| [@zeit-github-tester[bot]](https://github.com/zeit-github-tester[bot]) | 622 |
-
-#### create
-| bot | count |
-| ---- | ----- |
-| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 12312 |
-| [@direwolf-github](https://github.com/direwolf-github) | 8814 |
-| [@codestar-github-bot-1](https://github.com/codestar-github-bot-1) | 4762 |
-| [@svc-software-factory](https://github.com/svc-software-factory) | 4699 |
-| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 2885 |
-| [@dependabot[bot]](https://github.com/dependabot[bot]) | 2739 |
-| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 2553 |
-| [@renovate[bot]](https://github.com/renovate[bot]) | 1967 |
-| [@keksobot](https://github.com/keksobot) | 1068 |
-| [@imgbot[bot]](https://github.com/imgbot[bot]) | 379 |
-
-#### pr
-| bot | count |
-| ---- | ----- |
-| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 19009 |
-| [@pull[bot]](https://github.com/pull[bot]) | 6505 |
-| [@direwolf-github](https://github.com/direwolf-github) | 4011 |
-| [@dependabot[bot]](https://github.com/dependabot[bot]) | 2985 |
-| [@renovate[bot]](https://github.com/renovate[bot]) | 2832 |
-| [@pyup-bot](https://github.com/pyup-bot) | 911 |
-| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 854 |
-| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 380 |
-| [@imgbot[bot]](https://github.com/imgbot[bot]) | 378 |
-| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 286 |
+| [@LombiqBot](https://github.com/LombiqBot) | 35630 |
+| [@othhotro](https://github.com/othhotro) | 19766 |
+| [@2aef](https://github.com/2aef) | 10456 |
+| [@direwolf-github](https://github.com/direwolf-github) | 5271 |
+| [@renovate[bot]](https://github.com/renovate[bot]) | 4551 |
+| [@pull[bot]](https://github.com/pull[bot]) | 4441 |
+| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 3698 |
+| [@renovate-bot](https://github.com/renovate-bot) | 3319 |
+| [@newstools](https://github.com/newstools) | 2942 |
+| [@franck-paul](https://github.com/franck-paul) | 2532 |
 
 #### del
 | bot | count |
 | ---- | ----- |
-| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 8524 |
-| [@direwolf-github](https://github.com/direwolf-github) | 3826 |
-| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 2101 |
-| [@dependabot[bot]](https://github.com/dependabot[bot]) | 1573 |
-| [@renovate[bot]](https://github.com/renovate[bot]) | 1459 |
-| [@delete-merged-branch[bot]](https://github.com/delete-merged-branch[bot]) | 433 |
-| [@test987987](https://github.com/test987987) | 220 |
-| [@tree-bot](https://github.com/tree-bot) | 138 |
-| [@depfu[bot]](https://github.com/depfu[bot]) | 93 |
-| [@dotnet-bot](https://github.com/dotnet-bot) | 91 |
+| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 4622 |
+| [@direwolf-github](https://github.com/direwolf-github) | 3912 |
+| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 2561 |
+| [@dependabot[bot]](https://github.com/dependabot[bot]) | 1785 |
+| [@renovate[bot]](https://github.com/renovate[bot]) | 1510 |
+| [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1268 |
+| [@delete-merged-branch[bot]](https://github.com/delete-merged-branch[bot]) | 546 |
+| [@test987987](https://github.com/test987987) | 196 |
+| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 193 |
+| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
 
-#### prcomment
+#### create
 | bot | count |
 | ---- | ----- |
-| [@hound[bot]](https://github.com/hound[bot]) | 247 |
-| [@codacy-bot](https://github.com/codacy-bot) | 232 |
-| [@houndci-bot](https://github.com/houndci-bot) | 192 |
-| [@codeclimate[bot]](https://github.com/codeclimate[bot]) | 133 |
-| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 45 |
-| [@accesslint[bot]](https://github.com/accesslint[bot]) | 24 |
-| [@stickler-ci[bot]](https://github.com/stickler-ci[bot]) | 18 |
-| [@analysis-bot](https://github.com/analysis-bot) | 15 |
-| [@sourcelevel-bot[bot]](https://github.com/sourcelevel-bot[bot]) | 14 |
-| [@vaadin-bot](https://github.com/vaadin-bot) | 6 |
+| [@direwolf-github](https://github.com/direwolf-github) | 9175 |
+| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 5791 |
+| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 5004 |
+| [@codestar-github-bot-1](https://github.com/codestar-github-bot-1) | 4721 |
+| [@svc-software-factory](https://github.com/svc-software-factory) | 4495 |
+| [@dependabot[bot]](https://github.com/dependabot[bot]) | 3127 |
+| [@renovate[bot]](https://github.com/renovate[bot]) | 2143 |
+| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 1958 |
+| [@keksobot](https://github.com/keksobot) | 1462 |
+| [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1290 |
+
+#### icomment
+| bot | count |
+| ---- | ----- |
+| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 2818 |
+| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 2648 |
+| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 1717 |
+| [@codecov[bot]](https://github.com/codecov[bot]) | 1588 |
+| [@openshift-ci-robot](https://github.com/openshift-ci-robot) | 1151 |
+| [@k8s-ci-robot](https://github.com/k8s-ci-robot) | 1047 |
+| [@codecov-io](https://github.com/codecov-io) | 908 |
+| [@liferay-continuous-integration](https://github.com/liferay-continuous-integration) | 758 |
+| [@coveralls](https://github.com/coveralls) | 677 |
+| [@stale[bot]](https://github.com/stale[bot]) | 550 |
+
+#### pr
+| bot | count |
+| ---- | ----- |
+| [@pull[bot]](https://github.com/pull[bot]) | 8862 |
+| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 8122 |
+| [@direwolf-github](https://github.com/direwolf-github) | 4097 |
+| [@dependabot[bot]](https://github.com/dependabot[bot]) | 3431 |
+| [@renovate[bot]](https://github.com/renovate[bot]) | 2884 |
+| [@pyup-bot](https://github.com/pyup-bot) | 860 |
+| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 667 |
+| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 506 |
+| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 386 |
+| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 384 |
 
 #### ccomment
 | bot | count |
 | ---- | ----- |
-| [@now[bot]](https://github.com/now[bot]) | 880 |
-| [@datreeio[bot]](https://github.com/datreeio[bot]) | 81 |
-| [@lintr-bot](https://github.com/lintr-bot) | 37 |
-| [@now-test[bot]](https://github.com/now-test[bot]) | 23 |
-| [@conda-forge-linter](https://github.com/conda-forge-linter) | 14 |
-| [@nrel-bot-2b](https://github.com/nrel-bot-2b) | 6 |
-| [@nrel-bot-2](https://github.com/nrel-bot-2) | 5 |
-| [@nrel-bot-3](https://github.com/nrel-bot-3) | 4 |
-| [@taskcluster[bot]](https://github.com/taskcluster[bot]) | 4 |
-| [@nrel-bot-2c](https://github.com/nrel-bot-2c) | 4 |
+| [@now[bot]](https://github.com/now[bot]) | 823 |
+| [@datreeio[bot]](https://github.com/datreeio[bot]) | 89 |
+| [@nrel-bot-2](https://github.com/nrel-bot-2) | 18 |
+| [@conda-forge-linter](https://github.com/conda-forge-linter) | 17 |
+| [@now-test[bot]](https://github.com/now-test[bot]) | 14 |
+| [@nrel-bot-2c](https://github.com/nrel-bot-2c) | 14 |
+| [@lintr-bot](https://github.com/lintr-bot) | 13 |
+| [@nrel-bot-2b](https://github.com/nrel-bot-2b) | 12 |
+| [@poggit-bot](https://github.com/poggit-bot) | 10 |
+| [@nrel-bot](https://github.com/nrel-bot) | 7 |
+
+#### issue
+| bot | count |
+| ---- | ----- |
+| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 916 |
+| [@IvanovDmytroA](https://github.com/IvanovDmytroA) | 492 |
+| [@koorellasuresh](https://github.com/koorellasuresh) | 478 |
+| [@debricked[bot]](https://github.com/debricked[bot]) | 294 |
+| [@xiaospider](https://github.com/xiaospider) | 192 |
+| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 192 |
+| [@stale[bot]](https://github.com/stale[bot]) | 172 |
+| [@bot-monkey-1](https://github.com/bot-monkey-1) | 160 |
+| [@favroautomation](https://github.com/favroautomation) | 132 |
+| [@oslc-bot](https://github.com/oslc-bot) | 120 |
+
+#### prcomment
+| bot | count |
+| ---- | ----- |
+| [@houndci-bot](https://github.com/houndci-bot) | 456 |
+| [@hound[bot]](https://github.com/hound[bot]) | 317 |
+| [@codacy-bot](https://github.com/codacy-bot) | 304 |
+| [@codeclimate[bot]](https://github.com/codeclimate[bot]) | 181 |
+| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 82 |
+| [@bot-monkey-1](https://github.com/bot-monkey-1) | 16 |
+| [@pullrequest[bot]](https://github.com/pullrequest[bot]) | 14 |
+| [@accesslint[bot]](https://github.com/accesslint[bot]) | 11 |
+| [@vaadin-bot](https://github.com/vaadin-bot) | 11 |
+| [@sider[bot]](https://github.com/sider[bot]) | 6 |
 
 #### release
 | bot | count |
 | ---- | ----- |
-| [@jenkins-x-bot](https://github.com/jenkins-x-bot) | 94 |
-| [@github-actions[bot]](https://github.com/github-actions[bot]) | 38 |
-| [@nodejs-changelog-writer[bot]](https://github.com/nodejs-changelog-writer[bot]) | 32 |
-| [@release-drafter[bot]](https://github.com/release-drafter[bot]) | 23 |
-| [@vtex-io-ci-cd[bot]](https://github.com/vtex-io-ci-cd[bot]) | 16 |
-| [@travi-bot](https://github.com/travi-bot) | 12 |
-| [@adobe-bot](https://github.com/adobe-bot) | 11 |
+| [@jenkins-x-bot](https://github.com/jenkins-x-bot) | 103 |
+| [@hmrc-web-operations](https://github.com/hmrc-web-operations) | 100 |
+| [@github-actions[bot]](https://github.com/github-actions[bot]) | 76 |
+| [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 60 |
+| [@julia-tagbot[bot]](https://github.com/julia-tagbot[bot]) | 54 |
+| [@release-drafter[bot]](https://github.com/release-drafter[bot]) | 28 |
+| [@LinuxServer-CI](https://github.com/LinuxServer-CI) | 24 |
+| [@vtex-io-ci-cd[bot]](https://github.com/vtex-io-ci-cd[bot]) | 19 |
+| [@adobe-bot](https://github.com/adobe-bot) | 14 |
 | [@bitnami-bot](https://github.com/bitnami-bot) | 10 |
-| [@neos-bot](https://github.com/neos-bot) | 10 |
-| [@spryker-release-bot](https://github.com/spryker-release-bot) | 8 |
+
+#### fork
+| bot | count |
+| ---- | ----- |
+| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 166 |
+| [@regro-cf-autotick-bot](https://github.com/regro-cf-autotick-bot) | 6 |
+| [@Callek-bot](https://github.com/Callek-bot) | 1 |
+| [@Pebbles-bot](https://github.com/Pebbles-bot) | 1 |
+| [@Harold-bot](https://github.com/Harold-bot) | 1 |
+| [@hf-bee-bot](https://github.com/hf-bee-bot) | 1 |
+| [@scala-steward](https://github.com/scala-steward) | 1 |
+| [@conda-forge-linter](https://github.com/conda-forge-linter) | 1 |
+| [@upswing-bot](https://github.com/upswing-bot) | 1 |
+| [@jasonwc-bot](https://github.com/jasonwc-bot) | 1 |
 
 
 ### Activity (Repos)
 #### push
 | repo | count |
 | ---- | ----- |
-| [2aef/a2ch](https://github.com/2aef/a2ch) | 35221 |
-| [othhotro/Roo.Exe](https://github.com/othhotro/Roo.Exe) | 19997 |
-| [emdashes/emdashes.github.io](https://github.com/emdashes/emdashes.github.io) | 3670 |
-| [himobi/hotspot](https://github.com/himobi/hotspot) | 2300 |
-| [dotclear/dotclear](https://github.com/dotclear/dotclear) | 2296 |
-| [mpsq/what-time-is-it](https://github.com/mpsq/what-time-is-it) | 2177 |
-| [drogus/a-migration-test](https://github.com/drogus/a-migration-test) | 2091 |
-| [pequet/public-logs](https://github.com/pequet/public-logs) | 2034 |
-| [geos4s/18w856162](https://github.com/geos4s/18w856162) | 1937 |
-| [m1ha5/testing](https://github.com/m1ha5/testing) | 1849 |
-
-#### icomment
-| repo | count |
-| ---- | ----- |
-| [google-test/signcla-probe-repo](https://github.com/google-test/signcla-probe-repo) | 768 |
-| [brianchandotcom/liferay-portal](https://github.com/brianchandotcom/liferay-portal) | 395 |
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 355 |
-| [elastic/kibana](https://github.com/elastic/kibana) | 255 |
-| [apache/spark](https://github.com/apache/spark) | 239 |
-| [yunionio/onecloud](https://github.com/yunionio/onecloud) | 237 |
-| [helm/charts](https://github.com/helm/charts) | 230 |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | 214 |
-| [webcompat/web-bugs](https://github.com/webcompat/web-bugs) | 197 |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 193 |
-
-#### issue
-| repo | count |
-| ---- | ----- |
-| [pythonpeixun/article](https://github.com/pythonpeixun/article) | 7025 |
-| [koorellasuresh/UKRegionTest](https://github.com/koorellasuresh/UKRegionTest) | 479 |
-| [mamosova/tutorials](https://github.com/mamosova/tutorials) | 427 |
-| [mi-pyt-ghia/MarekSuchanek](https://github.com/mi-pyt-ghia/MarekSuchanek) | 392 |
-| [vtex-apps/io-documentation](https://github.com/vtex-apps/io-documentation) | 342 |
-| [jlippold/tweakCompatible](https://github.com/jlippold/tweakCompatible) | 277 |
-| [7ameed/handmade](https://github.com/7ameed/handmade) | 220 |
-| [antonba/ApimTest](https://github.com/antonba/ApimTest) | 192 |
-| [xiaospider/test](https://github.com/xiaospider/test) | 192 |
-| [thadiun/hello-world](https://github.com/thadiun/hello-world) | 191 |
-
-#### create
-| repo | count |
-| ---- | ----- |
-| [direwolf-github/my-app](https://github.com/direwolf-github/my-app) | 1549 |
-| [CircleCITestOrg/smoke-test-test-repo](https://github.com/CircleCITestOrg/smoke-test-test-repo) | 1294 |
-| [google-test2/signcla-probe-repo](https://github.com/google-test2/signcla-probe-repo) | 576 |
-| [atlasBuildbot2/atlas-github-release-notes-integration-testRepo](https://github.com/atlasBuildbot2/atlas-github-release-notes-integration-testRepo) | 402 |
-| [hyibing/codecombat](https://github.com/hyibing/codecombat) | 310 |
-| [qingqingqingtian/spark](https://github.com/qingqingqingtian/spark) | 230 |
-| [test987987/test12](https://github.com/test987987/test12) | 220 |
-| [codestar-github-bot-1/user-public-seeded-repo-eu-central-1](https://github.com/codestar-github-bot-1/user-public-seeded-repo-eu-central-1) | 199 |
-| [codestar-github-bot-1/user-public-seeded-repo-ap-southeast-1](https://github.com/codestar-github-bot-1/user-public-seeded-repo-ap-southeast-1) | 198 |
-| [codestar-github-bot-1/user-public-seeded-repo-ap-south-1](https://github.com/codestar-github-bot-1/user-public-seeded-repo-ap-south-1) | 198 |
-
-#### pr
-| repo | count |
-| ---- | ----- |
-| [google-test/signcla-probe-repo](https://github.com/google-test/signcla-probe-repo) | 1151 |
-| [atlasBuildbot2/atlas-github-release-notes-integration-testRepo](https://github.com/atlasBuildbot2/atlas-github-release-notes-integration-testRepo) | 216 |
-| [test-organization-kkjeer/bot-validation](https://github.com/test-organization-kkjeer/bot-validation) | 110 |
-| [test-organization-kkjeer/app-test](https://github.com/test-organization-kkjeer/app-test) | 110 |
-| [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 107 |
-| [yunionio/onecloud](https://github.com/yunionio/onecloud) | 106 |
-| [elastic/kibana](https://github.com/elastic/kibana) | 98 |
-| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 91 |
-| [kst-nhn-com/app1](https://github.com/kst-nhn-com/app1) | 86 |
-| [brianchandotcom/liferay-portal](https://github.com/brianchandotcom/liferay-portal) | 82 |
+| [othhotro/Roo.Exe](https://github.com/othhotro/Roo.Exe) | 19766 |
+| [2aef/a2ch](https://github.com/2aef/a2ch) | 10456 |
+| [Vinfild/AutocommitTest](https://github.com/Vinfild/AutocommitTest) | 5958 |
+| [dotclear/dotclear](https://github.com/dotclear/dotclear) | 2295 |
+| [himobi/hotspot](https://github.com/himobi/hotspot) | 2195 |
+| [mpsq/what-time-is-it](https://github.com/mpsq/what-time-is-it) | 2103 |
+| [triforcecoin/triforcecoin](https://github.com/triforcecoin/triforcecoin) | 2072 |
+| [pequet/public-logs](https://github.com/pequet/public-logs) | 1991 |
+| [geos4s/18w856162](https://github.com/geos4s/18w856162) | 1946 |
+| [m1ha5/testing](https://github.com/m1ha5/testing) | 1844 |
 
 #### watch
 | repo | count |
 | ---- | ----- |
-| [cmiscm/leonsans](https://github.com/cmiscm/leonsans) | 1743 |
-| [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 570 |
-| [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) | 300 |
-| [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 260 |
-| [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) | 239 |
-| [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 225 |
-| [facade/ignition](https://github.com/facade/ignition) | 218 |
-| [gquere/pwn_jenkins](https://github.com/gquere/pwn_jenkins) | 215 |
-| [azl397985856/leetcode](https://github.com/azl397985856/leetcode) | 200 |
-| [lumen/lumen](https://github.com/lumen/lumen) | 196 |
-
-#### del
-| repo | count |
-| ---- | ----- |
-| [direwolf-github/my-app](https://github.com/direwolf-github/my-app) | 1555 |
-| [CircleCITestOrg/smoke-test-test-repo](https://github.com/CircleCITestOrg/smoke-test-test-repo) | 1295 |
-| [imiklos/gecko-dev](https://github.com/imiklos/gecko-dev) | 582 |
-| [google-test2/signcla-probe-repo](https://github.com/google-test2/signcla-probe-repo) | 574 |
-| [michaelherold/heroku-buildpack-ruby](https://github.com/michaelherold/heroku-buildpack-ruby) | 315 |
-| [liitfr/liit-www](https://github.com/liitfr/liit-www) | 224 |
-| [test987987/test12](https://github.com/test987987/test12) | 220 |
-| [Meevotech/laravel-datatables](https://github.com/Meevotech/laravel-datatables) | 205 |
-| [dmarczydlo/docker-logger](https://github.com/dmarczydlo/docker-logger) | 155 |
-| [mirror-land/bzip2](https://github.com/mirror-land/bzip2) | 138 |
-
-#### prcomment
-| repo | count |
-| ---- | ----- |
-| [nus-cs2103-AY1920S1/duke](https://github.com/nus-cs2103-AY1920S1/duke) | 430 |
-| [oppia/oppia](https://github.com/oppia/oppia) | 119 |
-| [mate-academy/jv-linked-list](https://github.com/mate-academy/jv-linked-list) | 117 |
-| [frontend-park-mail-ru/homework-frontend](https://github.com/frontend-park-mail-ru/homework-frontend) | 113 |
-| [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) | 112 |
-| [Privatix/dapp-installer](https://github.com/Privatix/dapp-installer) | 104 |
-| [apache/spark](https://github.com/apache/spark) | 102 |
-| [mate-academy/layout_html-form](https://github.com/mate-academy/layout_html-form) | 102 |
-| [openssl/openssl](https://github.com/openssl/openssl) | 80 |
-| [scylladb/scylla](https://github.com/scylladb/scylla) | 75 |
-
-#### golem
-| repo | count |
-| ---- | ----- |
-| [dalealleshouse/cloud-migration-for-managers](https://github.com/dalealleshouse/cloud-migration-for-managers) | 124 |
-| [paulopinheiro1234/hadatac](https://github.com/paulopinheiro1234/hadatac) | 90 |
-| [ezEngine/ezEngine](https://github.com/ezEngine/ezEngine) | 61 |
-| [SIMITGROUP/webapi](https://github.com/SIMITGROUP/webapi) | 53 |
-| [C-Division-2019-2020-Odd/Repo-11](https://github.com/C-Division-2019-2020-Odd/Repo-11) | 50 |
-| [f-division-2019-2020-odd/Repo-14](https://github.com/f-division-2019-2020-odd/Repo-14) | 48 |
-| [BabyClosetGroup/BabyClosetServer](https://github.com/BabyClosetGroup/BabyClosetServer) | 44 |
-| [pannous/hieros](https://github.com/pannous/hieros) | 43 |
-| [pelagios/pelagios.github.io](https://github.com/pelagios/pelagios.github.io) | 43 |
-| [GabJango/PedRappi](https://github.com/GabJango/PedRappi) | 41 |
+| [cmiscm/leonsans](https://github.com/cmiscm/leonsans) | 1058 |
+| [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) | 883 |
+| [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 671 |
+| [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 393 |
+| [xadrianzetx/fullstack.ai](https://github.com/xadrianzetx/fullstack.ai) | 336 |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 257 |
+| [timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch) | 256 |
+| [gothinkster/realworld](https://github.com/gothinkster/realworld) | 246 |
+| [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 239 |
+| [Matheus-Garbelini/esp32_esp8266_attacks](https://github.com/Matheus-Garbelini/esp32_esp8266_attacks) | 223 |
 
 #### fork
 | repo | count |
 | ---- | ----- |
-| [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 130 |
-| [LambdaSchool/DOM-I](https://github.com/LambdaSchool/DOM-I) | 102 |
-| [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 100 |
-| [njuics/java-2019-homeworks](https://github.com/njuics/java-2019-homeworks) | 91 |
-| [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) | 75 |
-| [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | 73 |
-| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 68 |
-| [ironhack-labs/lab-es6-javascript-koans](https://github.com/ironhack-labs/lab-es6-javascript-koans) | 59 |
-| [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) | 55 |
-| [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) | 53 |
+| [LambdaSchool/DOM-II](https://github.com/LambdaSchool/DOM-II) | 173 |
+| [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 169 |
+| [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) | 114 |
+| [LambdaSchool/React-Github-User-Card](https://github.com/LambdaSchool/React-Github-User-Card) | 99 |
+| [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 83 |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 80 |
+| [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | 62 |
+| [LambdaSchool/webapi-ii-challenge](https://github.com/LambdaSchool/webapi-ii-challenge) | 57 |
+| [LambdaSchool/DOM-I](https://github.com/LambdaSchool/DOM-I) | 57 |
+| [ironhack-labs/lab-advance-querying-mongo](https://github.com/ironhack-labs/lab-advance-querying-mongo) | 56 |
+
+#### pr
+| repo | count |
+| ---- | ----- |
+| [google-test/signcla-probe-repo](https://github.com/google-test/signcla-probe-repo) | 1153 |
+| [da2k/curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja) | 746 |
+| [teambanhmi/test](https://github.com/teambanhmi/test) | 251 |
+| [tigerscave/kirirom-code-review-dojo](https://github.com/tigerscave/kirirom-code-review-dojo) | 196 |
+| [test-organization-kkjeer/bot-validation](https://github.com/test-organization-kkjeer/bot-validation) | 176 |
+| [test-organization-kkjeer/app-test](https://github.com/test-organization-kkjeer/app-test) | 176 |
+| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 134 |
+| [ansible/ansible](https://github.com/ansible/ansible) | 131 |
+| [JuliaRegistries/General](https://github.com/JuliaRegistries/General) | 129 |
+| [brianchandotcom/liferay-portal](https://github.com/brianchandotcom/liferay-portal) | 125 |
+
+#### create
+| repo | count |
+| ---- | ----- |
+| [direwolf-github/my-app](https://github.com/direwolf-github/my-app) | 1566 |
+| [CircleCITestOrg/smoke-test-test-repo](https://github.com/CircleCITestOrg/smoke-test-test-repo) | 1266 |
+| [google-test2/signcla-probe-repo](https://github.com/google-test2/signcla-probe-repo) | 576 |
+| [DBGzxx1001/elasticsearch1](https://github.com/DBGzxx1001/elasticsearch1) | 272 |
+| [siserin/blind9](https://github.com/siserin/blind9) | 267 |
+| [keipour/Firmware](https://github.com/keipour/Firmware) | 246 |
+| [LArSoft/larsim](https://github.com/LArSoft/larsim) | 238 |
+| [HW42/graphene-build-logs](https://github.com/HW42/graphene-build-logs) | 217 |
+| [codestar-github-bot-1/user-public-seeded-repo-ap-northeast-2](https://github.com/codestar-github-bot-1/user-public-seeded-repo-ap-northeast-2) | 198 |
+| [codestar-github-bot-1/user-public-seeded-repo-ap-northeast-1](https://github.com/codestar-github-bot-1/user-public-seeded-repo-ap-northeast-1) | 198 |
+
+#### icomment
+| repo | count |
+| ---- | ----- |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 807 |
+| [google-test/signcla-probe-repo](https://github.com/google-test/signcla-probe-repo) | 767 |
+| [brianchandotcom/liferay-portal](https://github.com/brianchandotcom/liferay-portal) | 509 |
+| [elastic/kibana](https://github.com/elastic/kibana) | 399 |
+| [apache/spark](https://github.com/apache/spark) | 362 |
+| [ansible/ansible](https://github.com/ansible/ansible) | 336 |
+| [flutter/flutter](https://github.com/flutter/flutter) | 327 |
+| [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 319 |
+| [istio/istio](https://github.com/istio/istio) | 315 |
+| [openshift/console](https://github.com/openshift/console) | 284 |
+
+#### issue
+| repo | count |
+| ---- | ----- |
+| [mamosova/tutorials](https://github.com/mamosova/tutorials) | 492 |
+| [koorellasuresh/UKRegionTest](https://github.com/koorellasuresh/UKRegionTest) | 478 |
+| [LLK/scratch-flash](https://github.com/LLK/scratch-flash) | 342 |
+| [debricked/debricked-test-integration](https://github.com/debricked/debricked-test-integration) | 294 |
+| [turingschool-examples/monster_shop_1906](https://github.com/turingschool-examples/monster_shop_1906) | 284 |
+| [mi-pyt-ghia/MarekSuchanek](https://github.com/mi-pyt-ghia/MarekSuchanek) | 254 |
+| [lstjsuperman/fabric](https://github.com/lstjsuperman/fabric) | 219 |
+| [jlippold/tweakCompatible](https://github.com/jlippold/tweakCompatible) | 211 |
+| [manheim/terraform-pipeline](https://github.com/manheim/terraform-pipeline) | 200 |
+| [xiaospider/test](https://github.com/xiaospider/test) | 192 |
+
+#### del
+| repo | count |
+| ---- | ----- |
+| [direwolf-github/my-app](https://github.com/direwolf-github/my-app) | 1562 |
+| [CircleCITestOrg/smoke-test-test-repo](https://github.com/CircleCITestOrg/smoke-test-test-repo) | 1268 |
+| [spb-frontend/spb-frontend.ru](https://github.com/spb-frontend/spb-frontend.ru) | 684 |
+| [google-test2/signcla-probe-repo](https://github.com/google-test2/signcla-probe-repo) | 576 |
+| [LArSoft/larsim](https://github.com/LArSoft/larsim) | 238 |
+| [OpenNoahEdu/linux](https://github.com/OpenNoahEdu/linux) | 212 |
+| [test987987/test12](https://github.com/test987987/test12) | 196 |
+| [blocknetdx/blocknet](https://github.com/blocknetdx/blocknet) | 185 |
+| [erwango/zephyr](https://github.com/erwango/zephyr) | 180 |
+| [LArSoft/larreco](https://github.com/LArSoft/larreco) | 163 |
 
 #### release
 | repo | count |
 | ---- | ----- |
-| [atlasBuildbot2/atlas-github-release-notes-integration-testRepo](https://github.com/atlasBuildbot2/atlas-github-release-notes-integration-testRepo) | 178 |
-| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | 56 |
-| [sqlalchemy/mako](https://github.com/sqlalchemy/mako) | 54 |
-| [universum-studios/test](https://github.com/universum-studios/test) | 29 |
-| [yubo/doc](https://github.com/yubo/doc) | 23 |
-| [jenkins-x/jenkins-x-platform](https://github.com/jenkins-x/jenkins-x-platform) | 23 |
-| [Jaid/github-release-writer-test](https://github.com/Jaid/github-release-writer-test) | 20 |
-| [lingyi1162835314/lua](https://github.com/lingyi1162835314/lua) | 19 |
-| [levinzonr/kotlin-template](https://github.com/levinzonr/kotlin-template) | 19 |
-| [Wasp971/SolarTracker](https://github.com/Wasp971/SolarTracker) | 18 |
+| [atlasBuildbot2/atlas-github-release-notes-integration-testRepo](https://github.com/atlasBuildbot2/atlas-github-release-notes-integration-testRepo) | 55 |
+| [testme42/datasets](https://github.com/testme42/datasets) | 51 |
+| [proximax-storage/hunter-binary-cache](https://github.com/proximax-storage/hunter-binary-cache) | 27 |
+| [alphagov/gsp](https://github.com/alphagov/gsp) | 24 |
+| [yubo/doc](https://github.com/yubo/doc) | 24 |
+| [formatjs/formatjs](https://github.com/formatjs/formatjs) | 24 |
+| [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) | 21 |
+| [jenkins-x/jenkins-x-platform](https://github.com/jenkins-x/jenkins-x-platform) | 19 |
+| [meeDamian/docker-ci](https://github.com/meeDamian/docker-ci) | 17 |
+| [jenkins-x/jx-docs](https://github.com/jenkins-x/jx-docs) | 16 |
 
-#### member
+#### golem
 | repo | count |
 | ---- | ----- |
-| [liuyrSilence/gx-briup](https://github.com/liuyrSilence/gx-briup) | 40 |
-| [antonio2120/computo-en-la-nube](https://github.com/antonio2120/computo-en-la-nube) | 25 |
-| [aaronvark/PeerReview1819](https://github.com/aaronvark/PeerReview1819) | 16 |
-| [Unahur/cual-curso](https://github.com/Unahur/cual-curso) | 12 |
-| [dmoga/bootcamp-tae](https://github.com/dmoga/bootcamp-tae) | 12 |
-| [TuralSuleymani/P212_Demo_git_repo](https://github.com/TuralSuleymani/P212_Demo_git_repo) | 11 |
-| [zepcp/code_labs](https://github.com/zepcp/code_labs) | 10 |
-| [ncu-psl/MyCompyler](https://github.com/ncu-psl/MyCompyler) | 9 |
-| [ncu-psl/105502543](https://github.com/ncu-psl/105502543) | 9 |
-| [Rianasoa/CatShop](https://github.com/Rianasoa/CatShop) | 9 |
+| [contiki-os/contiki](https://github.com/contiki-os/contiki) | 103 |
+| [manaswinidas/DMN](https://github.com/manaswinidas/DMN) | 70 |
+| [impulse-semestrei/Documentos](https://github.com/impulse-semestrei/Documentos) | 60 |
+| [drawcoders/pentest-helpers](https://github.com/drawcoders/pentest-helpers) | 59 |
+| [D-Division-2019-2020-Odd/Repo-13](https://github.com/D-Division-2019-2020-Odd/Repo-13) | 52 |
+| [GabJango/Otaku-Store](https://github.com/GabJango/Otaku-Store) | 51 |
+| [C-Division-2019-2020-Odd/Repo-06](https://github.com/C-Division-2019-2020-Odd/Repo-06) | 47 |
+| [tre-pa/xtool-cli](https://github.com/tre-pa/xtool-cli) | 45 |
+| [whs12345/helloWord](https://github.com/whs12345/helloWord) | 45 |
+| [TeamSPoon/CYC_JRTL_with_CommonLisp](https://github.com/TeamSPoon/CYC_JRTL_with_CommonLisp) | 44 |
 
 #### ccomment
 | repo | count |
 | ---- | ----- |
-| [siggetest/githubtest](https://github.com/siggetest/githubtest) | 110 |
-| [fack2/MedicineAvailability](https://github.com/fack2/MedicineAvailability) | 33 |
-| [Hack23/cia](https://github.com/Hack23/cia) | 27 |
-| [sunilyenare/assignment001](https://github.com/sunilyenare/assignment001) | 25 |
-| [ValterMed/Exercise_HTML](https://github.com/ValterMed/Exercise_HTML) | 23 |
-| [NREL/EnergyPlus](https://github.com/NREL/EnergyPlus) | 21 |
-| [ToniCP/user_form](https://github.com/ToniCP/user_form) | 21 |
-| [svtmolchanova/week4](https://github.com/svtmolchanova/week4) | 21 |
-| [daenamkim/b9lab-rock-paper-scissors](https://github.com/daenamkim/b9lab-rock-paper-scissors) | 19 |
-| [bugaevamarg/TestTask](https://github.com/bugaevamarg/TestTask) | 17 |
+| [siggetest/githubtest](https://github.com/siggetest/githubtest) | 116 |
+| [IZenerO/Homework](https://github.com/IZenerO/Homework) | 72 |
+| [NREL/EnergyPlus](https://github.com/NREL/EnergyPlus) | 57 |
+| [Hack23/cia](https://github.com/Hack23/cia) | 35 |
+| [fack2/MedicineAvailability](https://github.com/fack2/MedicineAvailability) | 28 |
+| [bvcms/bvcms](https://github.com/bvcms/bvcms) | 27 |
+| [collabAuto/branchingRepo](https://github.com/collabAuto/branchingRepo) | 24 |
+| [FCC-Mcr/main-site](https://github.com/FCC-Mcr/main-site) | 23 |
+| [samueljim/resume](https://github.com/samueljim/resume) | 22 |
+| [bourtemb/rfc](https://github.com/bourtemb/rfc) | 22 |
+
+#### prcomment
+| repo | count |
+| ---- | ----- |
+| [nus-cs2103-AY1920S1/duke](https://github.com/nus-cs2103-AY1920S1/duke) | 437 |
+| [openshift/openshift-docs](https://github.com/openshift/openshift-docs) | 160 |
+| [dchbx/enroll](https://github.com/dchbx/enroll) | 139 |
+| [nativestranger/hew](https://github.com/nativestranger/hew) | 136 |
+| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 133 |
+| [elastic/kibana](https://github.com/elastic/kibana) | 128 |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 127 |
+| [kubernetes/website](https://github.com/kubernetes/website) | 126 |
+| [pytorch/pytorch](https://github.com/pytorch/pytorch) | 126 |
+| [CasperLabs/CasperLabs](https://github.com/CasperLabs/CasperLabs) | 124 |
+
+#### member
+| repo | count |
+| ---- | ----- |
+| [maztarigan/matdisk](https://github.com/maztarigan/matdisk) | 25 |
+| [soportyx/cbtis194.3H](https://github.com/soportyx/cbtis194.3H) | 25 |
+| [MathieuHoude/ExerciceGit1](https://github.com/MathieuHoude/ExerciceGit1) | 17 |
+| [briancheagney/AlienApproach_GamDev_InClass](https://github.com/briancheagney/AlienApproach_GamDev_InClass) | 16 |
+| [rebleo/webDev2019](https://github.com/rebleo/webDev2019) | 15 |
+| [gbarron2014/GIR0141](https://github.com/gbarron2014/GIR0141) | 14 |
+| [campuscode-alumni/esperto_fit_personal](https://github.com/campuscode-alumni/esperto_fit_personal) | 14 |
+| [mattqfang/PalindromeDetector](https://github.com/mattqfang/PalindromeDetector) | 13 |
+| [campuscode-alumni/esperto_fit_payments](https://github.com/campuscode-alumni/esperto_fit_payments) | 13 |
+| [campuscode-alumni/esperto_fit_academy](https://github.com/campuscode-alumni/esperto_fit_academy) | 13 |
 
