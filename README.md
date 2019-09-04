@@ -1,17 +1,17 @@
 # Mon Sep 02 2019
 
-Across all of GitHub 78,406 users watched 
+Across all of GitHub 78,408 users watched 
 66,748 repositories. 
 1743 users watched [cmiscm/leonsans](https://github.com/cmiscm/leonsans), 570 users watched [deepfakes/faceswap](https://github.com/deepfakes/faceswap), 300 users watched [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab), 260 users watched [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook), and 
 239 users watched [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet).
 
-There were 101,169 comments on issues by 36,518 users and 326 bots in 30,571 repositories.
-32,537 new issues were opened by 16,131 users and 57 bots in 14,748 repositories.
-21,404 issues were closed by 9,565 users and 58 bots in 9,456 repositories.
+There were 101,169 comments on issues by 36,529 users and 315 bots in 30,571 repositories.
+32,537 new issues were opened by 16,135 users and 53 bots in 14,748 repositories.
+21,404 issues were closed by 9,568 users and 55 bots in 9,456 repositories.
 
-An additional 30,252 comments were made on pull requests by 7,792 users and 16 bots in 4,880 repositories.
-67,530 new pull requests were opened by 24,765 users and 91 bots in 37,810 repositories.
-60,676 pull requests were closed by 21,582 users and 104 bots in 31,714 repositories.
+An additional 30,252 comments were made on pull requests by 7,793 users and 15 bots in 4,880 repositories.
+67,530 new pull requests were opened by 24,779 users and 77 bots in 37,810 repositories.
+60,676 pull requests were closed by 21,596 users and 90 bots in 31,714 repositories.
 
 ## Top Charts
 
@@ -19,72 +19,72 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 #### push
 | user | count |
 | ---- | ----- |
-| [@gugod](https://github.com/gugod) | 1457 |
-| [@allenyllee](https://github.com/allenyllee) | 928 |
-| [@Dids](https://github.com/Dids) | 918 |
-| [@funilrys](https://github.com/funilrys) | 915 |
-| [@ddold](https://github.com/ddold) | 886 |
-| [@zhangguanzhang](https://github.com/zhangguanzhang) | 828 |
-| [@hknqp](https://github.com/hknqp) | 817 |
-| [@chuan12](https://github.com/chuan12) | 816 |
-| [@15600995244](https://github.com/15600995244) | 790 |
-| [@watsona4](https://github.com/watsona4) | 734 |
+| [@LombiqBot](https://github.com/LombiqBot) | 35973 |
+| [@2aef](https://github.com/2aef) | 35221 |
+| [@othhotro](https://github.com/othhotro) | 19997 |
+| [@emdashes](https://github.com/emdashes) | 3670 |
+| [@franck-paul](https://github.com/franck-paul) | 2541 |
+| [@himobi](https://github.com/himobi) | 2300 |
+| [@pakeji](https://github.com/pakeji) | 2291 |
+| [@drogus](https://github.com/drogus) | 2091 |
+| [@geos4s](https://github.com/geos4s) | 1937 |
+| [@m1ha5](https://github.com/m1ha5) | 1849 |
+
+#### icomment
+| user | count |
+| ---- | ----- |
+| [@googlebot](https://github.com/googlebot) | 302 |
+| [@elasticmachine](https://github.com/elasticmachine) | 204 |
+| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 192 |
+| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 192 |
+| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
+| [@AmplabJenkins](https://github.com/AmplabJenkins) | 168 |
+| [@bot-monkey-1](https://github.com/bot-monkey-1) | 120 |
+| [@srvbpigh](https://github.com/srvbpigh) | 107 |
+| [@yunion-ci-robot](https://github.com/yunion-ci-robot) | 105 |
+| [@gopherbot](https://github.com/gopherbot) | 82 |
 
 #### issue
 | user | count |
 | ---- | ----- |
+| [@euserss](https://github.com/euserss) | 4419 |
+| [@pythonpeixun](https://github.com/pythonpeixun) | 2608 |
+| [@koorellasuresh](https://github.com/koorellasuresh) | 479 |
+| [@IvanovDmytroA](https://github.com/IvanovDmytroA) | 427 |
 | [@MarekSuchanek](https://github.com/MarekSuchanek) | 392 |
 | [@7ameed](https://github.com/7ameed) | 220 |
 | [@miaojiang](https://github.com/miaojiang) | 192 |
 | [@thadiun](https://github.com/thadiun) | 191 |
 | [@lstjsuperman](https://github.com/lstjsuperman) | 191 |
 | [@saviofelixmuniz](https://github.com/saviofelixmuniz) | 125 |
-| [@ssseasonnn](https://github.com/ssseasonnn) | 121 |
-| [@yusukemihara](https://github.com/yusukemihara) | 101 |
-| [@ssi-qa](https://github.com/ssi-qa) | 96 |
-| [@jlippold](https://github.com/jlippold) | 95 |
 
 #### create
 | user | count |
 | ---- | ----- |
-| [@JbIPS](https://github.com/JbIPS) | 181 |
-| [@navneet10-code](https://github.com/navneet10-code) | 180 |
-| [@luis-ordering](https://github.com/luis-ordering) | 176 |
-| [@symphonyDev](https://github.com/symphonyDev) | 156 |
-| [@slskopytko](https://github.com/slskopytko) | 128 |
-| [@erezrokah](https://github.com/erezrokah) | 125 |
-| [@chepullreq1](https://github.com/chepullreq1) | 123 |
-| [@minux](https://github.com/minux) | 118 |
-| [@nelt](https://github.com/nelt) | 112 |
-| [@Kaizen-Oasis](https://github.com/Kaizen-Oasis) | 104 |
+| [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1318 |
+| [@clrpackages](https://github.com/clrpackages) | 559 |
+| [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 402 |
+| [@CAA379](https://github.com/CAA379) | 366 |
+| [@erudatics](https://github.com/erudatics) | 329 |
+| [@hyibing](https://github.com/hyibing) | 310 |
+| [@qingqingqingtian](https://github.com/qingqingqingtian) | 243 |
+| [@autotester-one](https://github.com/autotester-one) | 212 |
+| [@kamiluo](https://github.com/kamiluo) | 195 |
+| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 192 |
 
 #### pr
 | user | count |
 | ---- | ----- |
+| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 384 |
+| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 384 |
+| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 383 |
+| [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 216 |
+| [@bot-monkey-1](https://github.com/bot-monkey-1) | 160 |
 | [@zGrav](https://github.com/zGrav) | 142 |
+| [@scala-steward](https://github.com/scala-steward) | 132 |
 | [@erezrokah](https://github.com/erezrokah) | 103 |
+| [@kst-nhn-com](https://github.com/kst-nhn-com) | 86 |
 | [@MrsFlux](https://github.com/MrsFlux) | 78 |
-| [@kamilmysliwiec](https://github.com/kamilmysliwiec) | 76 |
-| [@myomin88re](https://github.com/myomin88re) | 61 |
-| [@hsiang307](https://github.com/hsiang307) | 61 |
-| [@homebysix](https://github.com/homebysix) | 59 |
-| [@ajinkya81](https://github.com/ajinkya81) | 58 |
-| [@alphaolomi](https://github.com/alphaolomi) | 56 |
-| [@saviofelixmuniz](https://github.com/saviofelixmuniz) | 56 |
-
-#### icomment
-| user | count |
-| ---- | ----- |
-| [@robodoo](https://github.com/robodoo) | 76 |
-| [@whedon](https://github.com/whedon) | 74 |
-| [@istio-testing](https://github.com/istio-testing) | 74 |
-| [@knative-prow-robot](https://github.com/knative-prow-robot) | 74 |
-| [@ajcvickers](https://github.com/ajcvickers) | 70 |
-| [@cockpituous](https://github.com/cockpituous) | 61 |
-| [@shivamagl95](https://github.com/shivamagl95) | 61 |
-| [@Apache-HBase](https://github.com/Apache-HBase) | 60 |
-| [@khouloudbelguith](https://github.com/khouloudbelguith) | 58 |
-| [@flathubbot](https://github.com/flathubbot) | 57 |
 
 #### watch
 | user | count |
@@ -103,16 +103,16 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 #### del
 | user | count |
 | ---- | ----- |
+| [@cmfgerrit](https://github.com/cmfgerrit) | 6909 |
+| [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1295 |
 | [@imiklos](https://github.com/imiklos) | 582 |
 | [@michaelherold](https://github.com/michaelherold) | 315 |
 | [@liitfr](https://github.com/liitfr) | 271 |
 | [@filipac](https://github.com/filipac) | 205 |
+| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 192 |
+| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 192 |
+| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 190 |
 | [@dmarczydlo](https://github.com/dmarczydlo) | 154 |
-| [@snowman2](https://github.com/snowman2) | 112 |
-| [@nelt](https://github.com/nelt) | 112 |
-| [@sommer](https://github.com/sommer) | 111 |
-| [@scepticulous](https://github.com/scepticulous) | 102 |
-| [@zetaraku](https://github.com/zetaraku) | 98 |
 
 #### prcomment
 | user | count |
@@ -159,20 +159,21 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 #### release
 | user | count |
 | ---- | ----- |
+| [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 178 |
+| [@sqla-tester](https://github.com/sqla-tester) | 108 |
+| [@hmrc-web-operations](https://github.com/hmrc-web-operations) | 81 |
 | [@qmfrederik](https://github.com/qmfrederik) | 36 |
 | [@albedinsky](https://github.com/albedinsky) | 29 |
+| [@LinuxServer-CI](https://github.com/LinuxServer-CI) | 28 |
 | [@yubo](https://github.com/yubo) | 23 |
+| [@lingyi1162835314](https://github.com/lingyi1162835314) | 19 |
 | [@levinzonr](https://github.com/levinzonr) | 19 |
 | [@Wasp971](https://github.com/Wasp971) | 18 |
-| [@olegchorny](https://github.com/olegchorny) | 17 |
-| [@JakobFerdinand](https://github.com/JakobFerdinand) | 16 |
-| [@mcarbonneaux](https://github.com/mcarbonneaux) | 16 |
-| [@niftylettuce](https://github.com/niftylettuce) | 15 |
-| [@sideshowbarker](https://github.com/sideshowbarker) | 15 |
 
 #### member
 | user | count |
 | ---- | ----- |
+| [@CAA379](https://github.com/CAA379) | 183 |
 | [@KnpLabs](https://github.com/KnpLabs) | 86 |
 | [@zilverline](https://github.com/zilverline) | 84 |
 | [@liuyrSilence](https://github.com/liuyrSilence) | 40 |
@@ -182,7 +183,6 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@opencollective](https://github.com/opencollective) | 20 |
 | [@ncu-psl](https://github.com/ncu-psl) | 18 |
 | [@ZoHerinnot](https://github.com/ZoHerinnot) | 17 |
-| [@jlengelsen](https://github.com/jlengelsen) | 17 |
 
 #### public
 | user | count |
@@ -228,19 +228,33 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@openshift-ci-robot](https://github.com/openshift-ci-robot) | 578 |
 | [@k8s-ci-robot](https://github.com/k8s-ci-robot) | 558 |
 
+#### issue
+| bot | count |
+| ---- | ----- |
+| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 816 |
+| [@favroautomation](https://github.com/favroautomation) | 260 |
+| [@vtex-io-docs-bot[bot]](https://github.com/vtex-io-docs-bot[bot]) | 216 |
+| [@xiaospider](https://github.com/xiaospider) | 192 |
+| [@debricked[bot]](https://github.com/debricked[bot]) | 169 |
+| [@stale[bot]](https://github.com/stale[bot]) | 161 |
+| [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 84 |
+| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 84 |
+| [@vscodebot[bot]](https://github.com/vscodebot[bot]) | 78 |
+| [@webcompat-bot](https://github.com/webcompat-bot) | 59 |
+
 #### push
 | bot | count |
 | ---- | ----- |
-| [@LombiqBot](https://github.com/LombiqBot) | 35973 |
-| [@2aef](https://github.com/2aef) | 35221 |
-| [@othhotro](https://github.com/othhotro) | 19997 |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 5516 |
 | [@direwolf-github](https://github.com/direwolf-github) | 5028 |
 | [@renovate[bot]](https://github.com/renovate[bot]) | 4460 |
-| [@emdashes](https://github.com/emdashes) | 3670 |
 | [@renovate-bot](https://github.com/renovate-bot) | 3604 |
 | [@pull[bot]](https://github.com/pull[bot]) | 3250 |
 | [@newstools](https://github.com/newstools) | 2698 |
+| [@what-time-is-it-bot](https://github.com/what-time-is-it-bot) | 2177 |
+| [@speedtracker-bot](https://github.com/speedtracker-bot) | 1408 |
+| [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 976 |
+| [@zeit-github-tester[bot]](https://github.com/zeit-github-tester[bot]) | 622 |
 
 #### create
 | bot | count |
@@ -253,22 +267,8 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@dependabot[bot]](https://github.com/dependabot[bot]) | 2739 |
 | [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 2553 |
 | [@renovate[bot]](https://github.com/renovate[bot]) | 1967 |
-| [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1318 |
 | [@keksobot](https://github.com/keksobot) | 1068 |
-
-#### issue
-| bot | count |
-| ---- | ----- |
-| [@euserss](https://github.com/euserss) | 4419 |
-| [@pythonpeixun](https://github.com/pythonpeixun) | 2608 |
-| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 816 |
-| [@koorellasuresh](https://github.com/koorellasuresh) | 479 |
-| [@IvanovDmytroA](https://github.com/IvanovDmytroA) | 427 |
-| [@favroautomation](https://github.com/favroautomation) | 260 |
-| [@vtex-io-docs-bot[bot]](https://github.com/vtex-io-docs-bot[bot]) | 216 |
-| [@xiaospider](https://github.com/xiaospider) | 192 |
-| [@debricked[bot]](https://github.com/debricked[bot]) | 169 |
-| [@stale[bot]](https://github.com/stale[bot]) | 161 |
+| [@imgbot[bot]](https://github.com/imgbot[bot]) | 379 |
 
 #### pr
 | bot | count |
@@ -280,23 +280,23 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@renovate[bot]](https://github.com/renovate[bot]) | 2832 |
 | [@pyup-bot](https://github.com/pyup-bot) | 911 |
 | [@jenkins-x-bot-test](https://github.com/jenkins-x-bot-test) | 854 |
-| [@signcla-test-signed-indiv](https://github.com/signcla-test-signed-indiv) | 384 |
-| [@signcla-test-signed-corp](https://github.com/signcla-test-signed-corp) | 384 |
-| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 383 |
+| [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 380 |
+| [@imgbot[bot]](https://github.com/imgbot[bot]) | 378 |
+| [@github-learning-lab[bot]](https://github.com/github-learning-lab[bot]) | 286 |
 
 #### del
 | bot | count |
 | ---- | ----- |
 | [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]) | 8524 |
-| [@cmfgerrit](https://github.com/cmfgerrit) | 6909 |
 | [@direwolf-github](https://github.com/direwolf-github) | 3826 |
 | [@greenkeeper[bot]](https://github.com/greenkeeper[bot]) | 2101 |
 | [@dependabot[bot]](https://github.com/dependabot[bot]) | 1573 |
 | [@renovate[bot]](https://github.com/renovate[bot]) | 1459 |
-| [@CircleJanewayTest](https://github.com/CircleJanewayTest) | 1295 |
 | [@delete-merged-branch[bot]](https://github.com/delete-merged-branch[bot]) | 433 |
 | [@test987987](https://github.com/test987987) | 220 |
-| [@signcla-test-unsigned](https://github.com/signcla-test-unsigned) | 192 |
+| [@tree-bot](https://github.com/tree-bot) | 138 |
+| [@depfu[bot]](https://github.com/depfu[bot]) | 93 |
+| [@dotnet-bot](https://github.com/dotnet-bot) | 91 |
 
 #### prcomment
 | bot | count |
@@ -310,7 +310,7 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 | [@stickler-ci[bot]](https://github.com/stickler-ci[bot]) | 18 |
 | [@analysis-bot](https://github.com/analysis-bot) | 15 |
 | [@sourcelevel-bot[bot]](https://github.com/sourcelevel-bot[bot]) | 14 |
-| [@bot-monkey-1](https://github.com/bot-monkey-1) | 10 |
+| [@vaadin-bot](https://github.com/vaadin-bot) | 6 |
 
 #### ccomment
 | bot | count |
@@ -329,16 +329,16 @@ An additional 30,252 comments were made on pull requests by 7,792 users and 16 b
 #### release
 | bot | count |
 | ---- | ----- |
-| [@atlasBuildbot2](https://github.com/atlasBuildbot2) | 178 |
-| [@sqla-tester](https://github.com/sqla-tester) | 108 |
 | [@jenkins-x-bot](https://github.com/jenkins-x-bot) | 94 |
-| [@hmrc-web-operations](https://github.com/hmrc-web-operations) | 81 |
 | [@github-actions[bot]](https://github.com/github-actions[bot]) | 38 |
 | [@nodejs-changelog-writer[bot]](https://github.com/nodejs-changelog-writer[bot]) | 32 |
-| [@LinuxServer-CI](https://github.com/LinuxServer-CI) | 28 |
 | [@release-drafter[bot]](https://github.com/release-drafter[bot]) | 23 |
-| [@lingyi1162835314](https://github.com/lingyi1162835314) | 19 |
 | [@vtex-io-ci-cd[bot]](https://github.com/vtex-io-ci-cd[bot]) | 16 |
+| [@travi-bot](https://github.com/travi-bot) | 12 |
+| [@adobe-bot](https://github.com/adobe-bot) | 11 |
+| [@bitnami-bot](https://github.com/bitnami-bot) | 10 |
+| [@neos-bot](https://github.com/neos-bot) | 10 |
+| [@spryker-release-bot](https://github.com/spryker-release-bot) | 8 |
 
 
 ### Activity (Repos)
