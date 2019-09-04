@@ -1,0 +1,22 @@
+on:
+  schedule:
+    - cron:  '10 12 * * *'
+name: Send Daily Email
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Build
+      uses: actions/npm@master
+      with:
+        entrypoint: npm
+        args: install
+    - name: Pull
+      uses: actions/npm@master
+      with:
+        entrypoint: npm
+        args: run email 
+      env:
+        MAILCHIMP_TOKEN: ${{ secrets.MAILCHIMP_TOKEN }}
