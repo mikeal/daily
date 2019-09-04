@@ -1,4 +1,4 @@
-on:
+--- on:
   schedule:
     - cron:  '10 * * * *'
 name: Pull Data and Build
