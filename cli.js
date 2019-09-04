@@ -3,7 +3,9 @@ const regression = require('./lib/regression')
 const markdown = require('./lib/markdown')
 const action = require('./lib/action')
 const pullHour = require('./lib/pull-hour')
+const mailchimp = require('./lib/mailchimp')
 const min = require('min-gharchive')
+const marked = require('marked')
 const fs = require('fs')
 const zlib = require('zlib')
 const { inspect } = require('util')
@@ -42,7 +44,7 @@ const runRegression = async argv => {
   const results = await regression(argv.input, argv.datetime)
   if (argv.output) {
     const filename = regname(argv.output, argv.datetime)
-    fs.writeFileSync(filename, zlib.gzipSync(JSON.stringify(results)))    
+    fs.writeFileSync(filename, zlib.gzipSync(JSON.stringify(results)))
   } else {
     console.log(inspect(results, { depth: Infinity }))
   }
@@ -56,12 +58,18 @@ const runMarkdown = async argv => {
   // console.log(inspect({all: reg.all, unique: reg.unique}, {depth: Infinity}))
   const mk = await markdown(reg, argv.datetime)
   if (argv.output) {
-    fs.writeFileSync(argv.output, mk) 
+    fs.writeFileSync(argv.output, mk)
   } else {
     console.log(mk)
   }
 }
 
+const runEmail = async argv => {
+  const stripCharts = s => s.slice(0, s.indexOf('## Top Charts'))
+  const readme = fs.readFileSync(__dirname + '/README.md').toString()
+  const title = readme.split('\n')[0].slice(2) + ' in Open Source'
+  await mailchimp(title, marked.parse(stripCharts(readme)))
+}
 const outputOptions = yargs => {
   yargs.option('output', {
     alias: 'o',
@@ -93,6 +101,7 @@ const args = yargs
   .command('regression [datetime]', 'build regression analysis for a day', regressionOptions, runRegression)
   .command('markdown [datetime]', 'build markdown page for the day', markdownOptions, runMarkdown)
   .command('action', 'run the hourly github action', () => {}, action)
+  .command('email', 'send the daily email', () => {}, runEmail)
   .argv
 
 if (!args._.length) {

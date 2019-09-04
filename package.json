@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "action": "./cli.js action"
+    "action": "./cli.js action",
+    "email": "./cli.js email"
   },
   "keywords": [],
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
@@ -14,6 +15,7 @@
     "csv-parser": "^2.3.0",
     "csv-string": "^3.1.6",
     "json-stream": "^1.0.0",
+    "marked": "^0.7.0",
     "min-gharchive": "0.0.0",
     "yargs": "^14.0.0"
   },
