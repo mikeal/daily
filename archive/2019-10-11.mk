@@ -2,8 +2,19 @@
 
 Across all of GitHub 83,249 users stared 
 67,214 repositories. 
-1149 users starred [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts), 981 users starred [uber-go/guide](https://github.com/uber-go/guide), 951 users starred [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2), 667 users starred [n8n-io/n8n](https://github.com/n8n-io/n8n), and 
-446 users starred [caffeine-overload/bandinchina](https://github.com/caffeine-overload/bandinchina).
+
+| stars | repo | desc |
+| --- | --- | --- |
+ +1149 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) |  |
+ +981 | [uber-go/guide](https://github.com/uber-go/guide) |  |
+ +951 | [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) |  |
+ +667 | [n8n-io/n8n](https://github.com/n8n-io/n8n) |  |
+ +446 | [caffeine-overload/bandinchina](https://github.com/caffeine-overload/bandinchina) |  |
+ +425 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) |  |
+ +424 | [ossu/computer-science](https://github.com/ossu/computer-science) |  |
+ +408 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) |  |
+ +400 | [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) |  |
+ +289 | [hsoft/collapseos](https://github.com/hsoft/collapseos) |  |
 
 There were 125,715 comments on issues by 46,168 users and 383 bots in 33,328 repositories.
 36,592 new issues were opened by 19,386 users and 55 bots in 17,266 repositories.
