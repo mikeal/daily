@@ -2,8 +2,19 @@
 
 Across all of GitHub 88,134 users stared 
 71,779 repositories. 
-1329 users starred [vuejs/vue-next](https://github.com/vuejs/vue-next), 946 users starred [n8n-io/n8n](https://github.com/n8n-io/n8n), 700 users starred [bloc97/Anime4K](https://github.com/bloc97/Anime4K), 550 users starred [hsoft/collapseos](https://github.com/hsoft/collapseos), and 
-515 users starred [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 1329 (+31%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
+| 946 (+38%) | 4 months ago | 158 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Free node based Workflow Automation Tool. Easily automate tasks across different services. |
+| 700 (+10%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
+| 550 (+33%) | 7 months ago | 122 | [hsoft/collapseos](https://github.com/hsoft/collapseos) | Assembly | Bootstrap post-collapse technology |
+| 515 (+10%) | last month | 648 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
+| 476 (+8%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
+| 468 (+32%) | 2 months ago | 37 | [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) | Rust | Spotify for the terminal written in Rust 🚀 |
+| 432 (+61%) | 2 weeks ago | 22 | [ImVexed/muon](https://github.com/ImVexed/muon) | Go | GPU based Electron on a diet |
+| 406 (+1%) | 5 years ago | 7076 | [ossu/computer-science](https://github.com/ossu/computer-science) | None | :mortar_board: Path to a free self-taught education in Computer Science! |
+| 368 (+16%) | 8 months ago | 145 | [JohnSully/KeyDB](https://github.com/JohnSully/KeyDB) | C++ | A Multithreaded Fork of Redis |
 
 There were 140,145 comments on issues by 49,827 users and 380 bots in 36,609 repositories.
 37,363 new issues were opened by 20,590 users and 55 bots in 18,536 repositories.
@@ -537,4 +548,5 @@ An additional 48,330 comments were made on pull requests by 13,027 users and 17 
 | [3778/ml-challenge](https://github.com/3778/ml-challenge) | 41 |
 | [Blackfaded/cloudhost-backend](https://github.com/Blackfaded/cloudhost-backend) | 37 |
 | [Recidiviz/pulse-data](https://github.com/Recidiviz/pulse-data) | 37 |
+
 

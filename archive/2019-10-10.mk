@@ -2,8 +2,19 @@
 
 Across all of GitHub 85,097 users stared 
 68,963 repositories. 
-1563 users starred [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts), 706 users starred [bloc97/Anime4K](https://github.com/bloc97/Anime4K), 632 users starred [leeoniya/uPlot](https://github.com/leeoniya/uPlot), 531 users starred [vuejs/vue-next](https://github.com/vuejs/vue-next), and 
-477 users starred [n8n-io/n8n](https://github.com/n8n-io/n8n).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 1563 (+37%) | last month | 648 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
+| 706 (+10%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
+| 632 (+280%) | 2 weeks ago | 16 | [leeoniya/uPlot](https://github.com/leeoniya/uPlot) | HTML | An exceptionally fast, tiny time series chart |
+| 531 (+10%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
+| 477 (+16%) | 4 months ago | 158 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Free node based Workflow Automation Tool. Easily automate tasks across different services. |
+| 395 (+22%) | 7 months ago | 122 | [hsoft/collapseos](https://github.com/hsoft/collapseos) | Assembly | Bootstrap post-collapse technology |
+| 378 (+1%) | 2 years ago | 24291 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook | Python - 100天从新手到大师 |
+| 342 (+56%) | 2 weeks ago | 75 | [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) | C++ | Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system. |
+| 329 (+2%) | 4 months ago | 5592 | [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) | Python | 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 |
+| 327 (+1%) | 5 years ago | 7076 | [ossu/computer-science](https://github.com/ossu/computer-science) | None | :mortar_board: Path to a free self-taught education in Computer Science! |
 
 There were 134,314 comments on issues by 48,290 users and 371 bots in 35,473 repositories.
 37,711 new issues were opened by 20,170 users and 45 bots in 17,955 repositories.
@@ -523,4 +534,5 @@ An additional 45,250 comments were made on pull requests by 12,609 users and 17 
 | [frnode/auto-manage-machine](https://github.com/frnode/auto-manage-machine) | 46 |
 | [zhanglingup/Q-A](https://github.com/zhanglingup/Q-A) | 44 |
 | [myTeachingURJC/2019-I-Taller-FPGAs-Libres-ETSIT-URJC](https://github.com/myTeachingURJC/2019-I-Taller-FPGAs-Libres-ETSIT-URJC) | 35 |
+
 

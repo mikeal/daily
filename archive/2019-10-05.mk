@@ -2,8 +2,19 @@
 
 Across all of GitHub 45,962 users stared 
 47,373 repositories. 
-1130 users starred [vuejs/vue-next](https://github.com/vuejs/vue-next), 705 users starred [iptv-org/iptv](https://github.com/iptv-org/iptv), 253 users starred [streamlit/streamlit](https://github.com/streamlit/streamlit), 199 users starred [bloc97/Anime4K](https://github.com/bloc97/Anime4K), and 
-145 users starred [dsc-galgotias-university/DSCFest-Hacktoberfest](https://github.com/dsc-galgotias-university/DSCFest-Hacktoberfest).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 1130 (+25%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
+| 705 (+13%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
+| 253 (+10%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
+| 199 (+3%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
+| 145 (+132%) | last week | 328 | [dsc-galgotias-university/DSCFest-Hacktoberfest](https://github.com/dsc-galgotias-university/DSCFest-Hacktoberfest) | None | Hacktoberfest® is open to everyone in our global community.  |
+| 116 (+9%) | 4 months ago | 64 | [facebookincubator/ent](https://github.com/facebookincubator/ent) | Go | An entity framework for Go |
+| 107 (+0%) | 3 years ago | 17710 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Jupyter Notebook | All Algorithms implemented in Python |
+| 96 (+16%) | 4 months ago | 31 | [facebookresearch/hydra](https://github.com/facebookresearch/hydra) | Python | Hydra is a framework for elegantly configuring complex applications |
+| 93 (+14%) | 2 weeks ago | 148 | [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger) | Dart | Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter. |
+| 91 (+0%) | 2 years ago | 24291 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook | Python - 100天从新手到大师 |
 
 There were 63,045 comments on issues by 23,760 users and 252 bots in 19,978 repositories.
 21,001 new issues were opened by 10,641 users and 39 bots in 10,531 repositories.
@@ -523,4 +534,5 @@ An additional 14,230 comments were made on pull requests by 4,049 users and 11 b
 | [Jugendhackt/SWTU](https://github.com/Jugendhackt/SWTU) | 7 |
 | [uladzimirholub1998/git-tutorial](https://github.com/uladzimirholub1998/git-tutorial) | 7 |
 | [Jors13/appReact](https://github.com/Jors13/appReact) | 7 |
+
 

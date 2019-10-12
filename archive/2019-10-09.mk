@@ -2,8 +2,19 @@
 
 Across all of GitHub 90,498 users stared 
 73,291 repositories. 
-1252 users starred [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts), 846 users starred [n8n-io/n8n](https://github.com/n8n-io/n8n), 783 users starred [bloc97/Anime4K](https://github.com/bloc97/Anime4K), 590 users starred [vuejs/vue-next](https://github.com/vuejs/vue-next), and 
-552 users starred [ossu/computer-science](https://github.com/ossu/computer-science).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 1252 (+27%) | last month | 648 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
+| 846 (+33%) | 4 months ago | 158 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Free node based Workflow Automation Tool. Easily automate tasks across different services. |
+| 783 (+11%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
+| 590 (+12%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
+| 552 (+1%) | 5 years ago | 7076 | [ossu/computer-science](https://github.com/ossu/computer-science) | None | :mortar_board: Path to a free self-taught education in Computer Science! |
+| 548 (+33%) | 7 months ago | 122 | [hsoft/collapseos](https://github.com/hsoft/collapseos) | Assembly | Bootstrap post-collapse technology |
+| 393 (+89%) | last week | 87 | [pond3r/ggpo](https://github.com/pond3r/ggpo) | C++ | Good Game, Peace Out Rollback Network SDK |
+| 359 (+69%) | 9 months ago | 177 | [snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) | Python | 简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0 |
+| 355 (+14%) | 7 months ago | 111 | [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) | TypeScript | 📋 React hooks for form validation without the hassle. |
+| 348 (+2%) | 2 years ago | 1306 | [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Swift | 🚀 Awesome list of open source applications for macOS. |
 
 There were 146,342 comments on issues by 50,627 users and 393 bots in 36,835 repositories.
 49,542 new issues were opened by 21,501 users and 53 bots in 19,109 repositories.
@@ -523,4 +534,5 @@ An additional 48,655 comments were made on pull requests by 13,107 users and 18 
 | [DiveintoCode-corp/kpt](https://github.com/DiveintoCode-corp/kpt) | 12 |
 | [StefanRadusi/scit_git_example](https://github.com/StefanRadusi/scit_git_example) | 11 |
 | [celsok-cit/java-tdd](https://github.com/celsok-cit/java-tdd) | 9 |
+
 

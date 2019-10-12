@@ -2,8 +2,19 @@
 
 Across all of GitHub 61,102 users stared 
 60,649 repositories. 
-600 users starred [iptv-org/iptv](https://github.com/iptv-org/iptv), 366 users starred [rolling-scopes/rsschool-app](https://github.com/rolling-scopes/rsschool-app), 269 users starred [facebookincubator/ent](https://github.com/facebookincubator/ent), 178 users starred [streamlit/streamlit](https://github.com/streamlit/streamlit), and 
-164 users starred [dsc-galgotias-university/DSCFest-Hacktoberfest](https://github.com/dsc-galgotias-university/DSCFest-Hacktoberfest).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 600 (+11%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
+| 366 (+458%) | last year | 44 | [rolling-scopes/rsschool-app](https://github.com/rolling-scopes/rsschool-app) | TypeScript | null |
+| 269 (+24%) | 4 months ago | 64 | [facebookincubator/ent](https://github.com/facebookincubator/ent) | Go | An entity framework for Go |
+| 178 (+7%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
+| 164 (+180%) | last week | 328 | [dsc-galgotias-university/DSCFest-Hacktoberfest](https://github.com/dsc-galgotias-university/DSCFest-Hacktoberfest) | None | Hacktoberfest® is open to everyone in our global community.  |
+| 159 (+3%) | 3 years ago | 733 | [eclipse-theia/theia](https://github.com/eclipse-theia/theia) | TypeScript | Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. |
+| 141 (+43%) | 5 years ago | 62 | [google/ktsan](https://github.com/google/ktsan) | C | KernelThreadSanitizer, a fast data race detector for the Linux kernel |
+| 132 (+26%) | 2 months ago | 22 | [hyperium/tonic](https://github.com/hyperium/tonic) | Rust | A native gRPC client & server implementation with async/await support. |
+| 126 (+32%) | 2 years ago | 12 | [kitze/react-genie](https://github.com/kitze/react-genie) | TypeScript | A set of React components for animating elements as they scroll into the viewport |
+| 125 (+1%) | 7 months ago | 5381 | [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) | None | Cheat Sheets |
 
 There were 133,273 comments on issues by 46,490 users and 391 bots in 34,333 repositories.
 36,128 new issues were opened by 19,224 users and 56 bots in 17,487 repositories.
@@ -537,4 +548,5 @@ An additional 44,776 comments were made on pull requests by 12,071 users and 20 
 | [ikas/praca-velha-frontend](https://github.com/ikas/praca-velha-frontend) | 43 |
 | [marco-c/gecko-dev-wordified-and-comments-removed](https://github.com/marco-c/gecko-dev-wordified-and-comments-removed) | 38 |
 | [Apisero-Connectors/shop-api-connector-doc](https://github.com/Apisero-Connectors/shop-api-connector-doc) | 33 |
+
 

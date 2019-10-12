@@ -2,8 +2,19 @@
 
 Across all of GitHub 59,406 users stared 
 57,964 repositories. 
-549 users starred [iptv-org/iptv](https://github.com/iptv-org/iptv), 526 users starred [vuejs/vue-next](https://github.com/vuejs/vue-next), 343 users starred [streamlit/streamlit](https://github.com/streamlit/streamlit), 292 users starred [bloc97/Anime4K](https://github.com/bloc97/Anime4K), and 
-209 users starred [caddyserver/caddy](https://github.com/caddyserver/caddy).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 549 (+10%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
+| 526 (+10%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
+| 343 (+14%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
+| 292 (+4%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
+| 209 (+1%) | 5 years ago | 1976 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | Fast, cross-platform HTTP/2 web server with automatic HTTPS |
+| 202 (+2%) | 7 months ago | 5381 | [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) | None | Cheat Sheets |
+| 170 (+29%) | 2 weeks ago | 148 | [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger) | Dart | Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter. |
+| 157 (+2%) | 3 years ago | 21312 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | None | 🚀✨ Help beginners to contribute to open source projects |
+| 145 (+1%) | 4 years ago | 2198 | [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | None | A list of awesome beginners-friendly projects. |
+| 131 (+88%) | 6 months ago | 1 | [tc39/proposal-uuid](https://github.com/tc39/proposal-uuid) | JavaScript | UUID proposal for ECMAScript (Stage 1) |
 
 There were 128,053 comments on issues by 43,837 users and 382 bots in 34,813 repositories.
 34,309 new issues were opened by 17,913 users and 54 bots in 16,512 repositories.
@@ -537,4 +548,5 @@ An additional 41,711 comments were made on pull requests by 11,308 users and 17 
 | [edgedelta/edgedelta-release](https://github.com/edgedelta/edgedelta-release) | 17 |
 | [ihhub/fheroes2](https://github.com/ihhub/fheroes2) | 16 |
 | [Tomaso2468/rpgonline-old](https://github.com/Tomaso2468/rpgonline-old) | 15 |
+
 

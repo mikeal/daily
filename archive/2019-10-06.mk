@@ -2,8 +2,19 @@
 
 Across all of GitHub 47,769 users stared 
 48,283 repositories. 
-501 users starred [vuejs/vue-next](https://github.com/vuejs/vue-next), 448 users starred [streamlit/streamlit](https://github.com/streamlit/streamlit), 439 users starred [iptv-org/iptv](https://github.com/iptv-org/iptv), 316 users starred [bloc97/Anime4K](https://github.com/bloc97/Anime4K), and 
-211 users starred [facebookincubator/ent](https://github.com/facebookincubator/ent).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 501 (+10%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
+| 448 (+20%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
+| 439 (+7%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
+| 316 (+4%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
+| 211 (+18%) | 4 months ago | 64 | [facebookincubator/ent](https://github.com/facebookincubator/ent) | Go | An entity framework for Go |
+| 205 (+4%) | last month | 648 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
+| 150 (+0%) | 3 years ago | 17710 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Jupyter Notebook | All Algorithms implemented in Python |
+| 132 (+27%) | 3 months ago | 160 | [prabhupant/python-ds](https://github.com/prabhupant/python-ds) | Python | Repository for data structure and algorithms in Python |
+| 125 (+0%) | 5 years ago | 7076 | [ossu/computer-science](https://github.com/ossu/computer-science) | None | :mortar_board: Path to a free self-taught education in Computer Science! |
+| 120 (+0%) | 2 years ago | 24291 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook | Python - 100天从新手到大师 |
 
 There were 62,766 comments on issues by 24,368 users and 245 bots in 18,777 repositories.
 26,033 new issues were opened by 10,824 users and 36 bots in 11,780 repositories.
@@ -509,4 +520,5 @@ An additional 15,446 comments were made on pull requests by 4,214 users and 10 b
 | [WinnerSong/hello-demo](https://github.com/WinnerSong/hello-demo) | 14 |
 | [saethlin/fls](https://github.com/saethlin/fls) | 13 |
 | [moonkwoo/flask-test](https://github.com/moonkwoo/flask-test) | 13 |
+
 

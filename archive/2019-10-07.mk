@@ -2,8 +2,19 @@
 
 Across all of GitHub 67,900 users stared 
 61,333 repositories. 
-874 users starred [idealo/imagededup](https://github.com/idealo/imagededup), 744 users starred [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui), 652 users starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps), 570 users starred [vuejs/vue-next](https://github.com/vuejs/vue-next), and 
-462 users starred [iptv-org/iptv](https://github.com/iptv-org/iptv).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 874 (+70%) | 6 months ago | 165 | [idealo/imagededup](https://github.com/idealo/imagededup) | Python | 😎 Finding duplicate images made easy! |
+| 744 (+64%) | 2 months ago | 37 | [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) | Rust | Spotify for the terminal written in Rust 🚀 |
+| 652 (+3%) | 2 years ago | 1306 | [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Swift | 🚀 Awesome list of open source applications for macOS. |
+| 570 (+11%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
+| 462 (+8%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
+| 423 (+6%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
+| 332 (+14%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
+| 299 (+5%) | 6 years ago | 6532 | [lewagon/dotfiles](https://github.com/lewagon/dotfiles) | Shell | Default configuration for Le Wagon's students |
+| 295 (+6%) | 6 years ago | 421 | [lewagon/setup](https://github.com/lewagon/setup) | Ruby | Setup instructions for Le Wagon's students on their first day of camp |
+| 252 (+13%) | 7 months ago | 122 | [hsoft/collapseos](https://github.com/hsoft/collapseos) | Assembly | Bootstrap post-collapse technology |
 
 There were 134,861 comments on issues by 47,297 users and 375 bots in 36,086 repositories.
 36,498 new issues were opened by 19,342 users and 50 bots in 17,794 repositories.
@@ -537,4 +548,5 @@ An additional 45,606 comments were made on pull requests by 12,333 users and 18 
 | [hjbeauty/bit2019070820200110](https://github.com/hjbeauty/bit2019070820200110) | 11 |
 | [cu-swe4s-fall-2019/time-series-basics-qyang13](https://github.com/cu-swe4s-fall-2019/time-series-basics-qyang13) | 9 |
 | [driblo-desenho-de-software-2019-2/docs](https://github.com/driblo-desenho-de-software-2019-2/docs) | 9 |
+
 

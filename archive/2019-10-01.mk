@@ -2,8 +2,19 @@
 
 Across all of GitHub 59,613 users stared 
 56,745 repositories. 
-414 users starred [iptv-org/iptv](https://github.com/iptv-org/iptv), 296 users starred [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu), 209 users starred [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD), 183 users starred [ageron/handson-ml2](https://github.com/ageron/handson-ml2), and 
-181 users starred [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow).
+
+| stars | created | forks | lang | repo | desc |
+| --- | --- | --- | --- | --- | --- |
+| 414 (+7%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
+| 296 (+7%) | 3 years ago | 1123 | [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) | Python | open-source jailbreaking tool for many iOS devices |
+| 209 (+1%) | 3 years ago | 1808 | [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) | None | 🗿 A list of everything that *could* go in the head of your document |
+| 183 (+6%) | 9 months ago | 1054 | [ageron/handson-ml2](https://github.com/ageron/handson-ml2) | Jupyter Notebook | A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
+| 181 (+0%) | 4 years ago | 77894 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | An Open Source Machine Learning Framework for Everyone |
+| 157 (+6%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
+| 156 (+4%) | 3 weeks ago | 165 | [denisidoro/navi](https://github.com/denisidoro/navi) | Shell | An interactive cheatsheet tool for the command-line |
+| 138 (+260%) | 4 weeks ago | 8 | [mlang/ronor](https://github.com/mlang/ronor) | Rust | Sonos smart speaker controller API and command-line tools |
+| 133 (+1%) | last year | 1700 | [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | Shell | 📖 A collection of pure bash alternatives to external processes. |
+| 124 (+17%) | 3 months ago | 145 | [svip-lab/impersonator](https://github.com/svip-lab/impersonator) | Python | PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis |
 
 There were 145,317 comments on issues by 47,546 users and 388 bots in 39,195 repositories.
 38,627 new issues were opened by 19,614 users and 60 bots in 18,279 repositories.
@@ -537,4 +548,5 @@ An additional 46,191 comments were made on pull requests by 12,115 users and 20 
 | [tixte/version-2.0](https://github.com/tixte/version-2.0) | 39 |
 | [darkwizard0/3-eso-A](https://github.com/darkwizard0/3-eso-A) | 34 |
 | [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) | 34 |
+
 
