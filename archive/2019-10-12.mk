@@ -3,18 +3,18 @@
 Across all of GitHub 66,668 users stared 
 57,822 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 1043 (+95%) | last year | 173 | [uber-go/guide](https://github.com/uber-go/guide) | None | The Uber Go Style Guide. |
-| 870 (+17%) | last month | 658 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
-| 532 (+46%) | last month | 164 | [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | Python | Detectron2 is FAIR's next-generation research platform for object detection and segmentation. |
-| 313 (+4%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
-| 286 (+9%) | 4 months ago | 159 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Free node based Workflow Automation Tool. Easily automate tasks across different services. |
-| 283 (+135%) | 8 years ago | 65 | [mourner/bullshit.js](https://github.com/mourner/bullshit.js) | JavaScript | A bookmarklet for translating marketing speak into human-readable text. :poop: |
-| 251 (+2%) | 2 years ago | 2092 | [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) | Standard ML | 好耶  是女装 |
-| 249 (+61%) | last year | 45 | [microsoft/SandDance](https://github.com/microsoft/SandDance) | TypeScript | Visually explore, understand, and present your data. |
-| 239 (+0%) | 2 years ago | 24309 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook | Python - 100天从新手到大师 |
-| 239 (+0%) | last year | 19288 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java | 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **1043(+60%)**<br>241 | **Not Code**<br>last year | **[uber-go/guide](https://github.com/uber-go/guide)**<br>The Uber Go Style Guide. |
+| **870(+16%)**<br>689 | **Python**<br>last month | **[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)**<br>:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
+| **532(+34%)**<br>198 | **Python**<br>last month | **[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)**<br>Detectron2 is FAIR's next-generation research platform for object detection and segmentation. |
+| **313(+4%)**<br>652 | **GLSL**<br>2 months ago | **[bloc97/Anime4K](https://github.com/bloc97/Anime4K)**<br>A High-Quality Real Time Upscaler for Anime Video |
+| **286(+9%)**<br>160 | **TypeScript**<br>4 months ago | **[n8n-io/n8n](https://github.com/n8n-io/n8n)**<br>Free node based Workflow Automation Tool. Easily automate tasks across different services. |
+| **283(+68%)**<br>85 | **JavaScript**<br>8 years ago | **[mourner/bullshit.js](https://github.com/mourner/bullshit.js)**<br>A bookmarklet for translating marketing speak into human-readable text. :poop: |
+| **251(+2%)**<br>2135 | **Standard ML**<br>2 years ago | **[komeiji-satori/Dress](https://github.com/komeiji-satori/Dress)**<br>好耶  是女装 |
+| **249(+49%)**<br>49 | **TypeScript**<br>last year | **[microsoft/SandDance](https://github.com/microsoft/SandDance)**<br>Visually explore, understand, and present your data. |
+| **239(+0%)**<br>24379 | **Jupyter Notebook**<br>2 years ago | **[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)**<br>Python - 100天从新手到大师 |
+| **239(+0%)**<br>19326 | **Java**<br>last year | **[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)**<br>【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 |
 
 There were 67,271 comments on issues by 26,559 users and 261 bots in 20,084 repositories.
 23,737 new issues were opened by 12,167 users and 34 bots in 11,722 repositories.
@@ -534,4 +534,5 @@ An additional 14,446 comments were made on pull requests by 4,167 users and 11 b
 | [word-way/word-way-backend](https://github.com/word-way/word-way-backend) | 15 |
 | [hupratt/la_petite_portugaise](https://github.com/hupratt/la_petite_portugaise) | 15 |
 | [macports/macports-ports](https://github.com/macports/macports-ports) | 13 |
+
 

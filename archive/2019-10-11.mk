@@ -3,18 +3,18 @@
 Across all of GitHub 83,249 users stared 
 67,214 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 1149 (+25%) | last month | 648 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
-| 981 (+95%) | last year | 161 | [uber-go/guide](https://github.com/uber-go/guide) | None | The Uber Go Style Guide. |
-| 951 (+140%) | last month | 153 | [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | Python | Detectron2 is FAIR's next-generation research platform for object detection and segmentation. |
-| 667 (+24%) | 4 months ago | 158 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Free node based Workflow Automation Tool. Easily automate tasks across different services. |
-| 446 (+132%) | 4 days ago | 55 | [caffeine-overload/bandinchina](https://github.com/caffeine-overload/bandinchina) | HTML | Naming and shaming companies who kowtow to Chinese censorship requests |
-| 425 (+1%) | 2 years ago | 24291 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook | Python - 100天从新手到大师 |
-| 424 (+1%) | 5 years ago | 7076 | [ossu/computer-science](https://github.com/ossu/computer-science) | None | :mortar_board: Path to a free self-taught education in Computer Science! |
-| 408 (+5%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
-| 400 (+2%) | 4 months ago | 5592 | [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) | Python | 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 |
-| 289 (+15%) | 7 months ago | 122 | [hsoft/collapseos](https://github.com/hsoft/collapseos) | Assembly | Bootstrap post-collapse technology |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **1149(+23%)**<br>689 | **Python**<br>last month | **[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)**<br>:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
+| **981(+55%)**<br>241 | **Not Code**<br>last year | **[uber-go/guide](https://github.com/uber-go/guide)**<br>The Uber Go Style Guide. |
+| **951(+83%)**<br>198 | **Python**<br>last month | **[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)**<br>Detectron2 is FAIR's next-generation research platform for object detection and segmentation. |
+| **667(+23%)**<br>160 | **TypeScript**<br>4 months ago | **[n8n-io/n8n](https://github.com/n8n-io/n8n)**<br>Free node based Workflow Automation Tool. Easily automate tasks across different services. |
+| **446(+110%)**<br>61 | **HTML**<br>6 days ago | **[caffeine-overload/bandinchina](https://github.com/caffeine-overload/bandinchina)**<br>Naming and shaming companies who kowtow to Chinese censorship requests |
+| **425(+1%)**<br>24379 | **Jupyter Notebook**<br>2 years ago | **[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)**<br>Python - 100天从新手到大师 |
+| **424(+1%)**<br>7100 | **Not Code**<br>5 years ago | **[ossu/computer-science](https://github.com/ossu/computer-science)**<br>:mortar_board: Path to a free self-taught education in Computer Science! |
+| **408(+5%)**<br>652 | **GLSL**<br>2 months ago | **[bloc97/Anime4K](https://github.com/bloc97/Anime4K)**<br>A High-Quality Real Time Upscaler for Anime Video |
+| **400(+2%)**<br>5619 | **Python**<br>4 months ago | **[0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference)**<br>2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 |
+| **289(+15%)**<br>130 | **Assembly**<br>7 months ago | **[hsoft/collapseos](https://github.com/hsoft/collapseos)**<br>Bootstrap post-collapse technology |
 
 There were 125,715 comments on issues by 46,168 users and 383 bots in 33,328 repositories.
 36,592 new issues were opened by 19,386 users and 55 bots in 17,266 repositories.
@@ -534,4 +534,5 @@ An additional 42,022 comments were made on pull requests by 11,589 users and 18 
 | [joincivil/Civil](https://github.com/joincivil/Civil) | 21 |
 | [bambangm88/library](https://github.com/bambangm88/library) | 20 |
 | [TheEadie/WormsLeague](https://github.com/TheEadie/WormsLeague) | 20 |
+
 

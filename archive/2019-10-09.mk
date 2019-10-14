@@ -3,18 +3,18 @@
 Across all of GitHub 90,498 users stared 
 73,291 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 1252 (+27%) | last month | 648 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
-| 846 (+33%) | 4 months ago | 158 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Free node based Workflow Automation Tool. Easily automate tasks across different services. |
-| 783 (+11%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
-| 590 (+12%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
-| 552 (+1%) | 5 years ago | 7076 | [ossu/computer-science](https://github.com/ossu/computer-science) | None | :mortar_board: Path to a free self-taught education in Computer Science! |
-| 548 (+33%) | 7 months ago | 122 | [hsoft/collapseos](https://github.com/hsoft/collapseos) | Assembly | Bootstrap post-collapse technology |
-| 393 (+89%) | last week | 87 | [pond3r/ggpo](https://github.com/pond3r/ggpo) | C++ | Good Game, Peace Out Rollback Network SDK |
-| 359 (+69%) | 9 months ago | 177 | [snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) | Python | 简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0 |
-| 355 (+14%) | 7 months ago | 111 | [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) | TypeScript | 📋 React hooks for form validation without the hassle. |
-| 348 (+2%) | 2 years ago | 1306 | [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Swift | 🚀 Awesome list of open source applications for macOS. |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **1252(+25%)**<br>689 | **Python**<br>last month | **[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)**<br>:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
+| **846(+31%)**<br>160 | **TypeScript**<br>4 months ago | **[n8n-io/n8n](https://github.com/n8n-io/n8n)**<br>Free node based Workflow Automation Tool. Easily automate tasks across different services. |
+| **783(+11%)**<br>652 | **GLSL**<br>2 months ago | **[bloc97/Anime4K](https://github.com/bloc97/Anime4K)**<br>A High-Quality Real Time Upscaler for Anime Video |
+| **590(+11%)**<br>975 | **TypeScript**<br>last year | **[vuejs/vue-next](https://github.com/vuejs/vue-next)**<br>null |
+| **552(+1%)**<br>7100 | **Not Code**<br>5 years ago | **[ossu/computer-science](https://github.com/ossu/computer-science)**<br>:mortar_board: Path to a free self-taught education in Computer Science! |
+| **548(+32%)**<br>130 | **Assembly**<br>7 months ago | **[hsoft/collapseos](https://github.com/hsoft/collapseos)**<br>Bootstrap post-collapse technology |
+| **393(+79%)**<br>93 | **C++**<br>last week | **[pond3r/ggpo](https://github.com/pond3r/ggpo)**<br>Good Game, Peace Out Rollback Network SDK |
+| **359(+58%)**<br>211 | **Python**<br>9 months ago | **[snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook)**<br>简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0 |
+| **355(+14%)**<br>111 | **TypeScript**<br>7 months ago | **[react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)**<br>📋 React hooks for form validation without the hassle. |
+| **348(+2%)**<br>1310 | **Swift**<br>2 years ago | **[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)**<br>🚀 Awesome list of open source applications for macOS. |
 
 There were 146,342 comments on issues by 50,627 users and 393 bots in 36,835 repositories.
 49,542 new issues were opened by 21,501 users and 53 bots in 19,109 repositories.

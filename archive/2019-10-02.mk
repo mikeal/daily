@@ -3,18 +3,18 @@
 Across all of GitHub 62,129 users stared 
 58,508 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 566 (+10%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
-| 378 (+16%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
-| 255 (+8%) | 9 months ago | 1054 | [ageron/handson-ml2](https://github.com/ageron/handson-ml2) | Jupyter Notebook | A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
-| 196 (+60%) | 2 years ago | 12 | [kitze/react-genie](https://github.com/kitze/react-genie) | TypeScript | A set of React components for animating elements as they scroll into the viewport |
-| 192 (+1%) | 4 years ago | 2198 | [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | None | A list of awesome beginners-friendly projects. |
-| 170 (+266%) | last month | 10 | [luke8086/boot2c](https://github.com/luke8086/boot2c) | C | A simple way to write standalone C programs for i386 |
-| 167 (+6%) | 2 years ago | 340 | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | C | GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows) |
-| 158 (+3%) | 3 years ago | 1123 | [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) | Python | open-source jailbreaking tool for many iOS devices |
-| 148 (+28%) | 2 months ago | 265 | [akio-tanaka/lickey](https://github.com/akio-tanaka/lickey) | C++ | software license management system |
-| 139 (+0%) | 6 years ago | 21887 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | None | A book series on JavaScript. @YDKJS on twitter. |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **566(+10%)**<br>726 | **JavaScript**<br>last year | **[iptv-org/iptv](https://github.com/iptv-org/iptv)**<br>Collection of 8000+ publicly available IPTV channels from all over the world |
+| **378(+16%)**<br>189 | **Python**<br>2 months ago | **[streamlit/streamlit](https://github.com/streamlit/streamlit)**<br>Streamlit — The fastest way to build custom ML tools |
+| **255(+8%)**<br>1065 | **Jupyter Notebook**<br>9 months ago | **[ageron/handson-ml2](https://github.com/ageron/handson-ml2)**<br>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
+| **196(+59%)**<br>12 | **TypeScript**<br>2 years ago | **[kitze/react-genie](https://github.com/kitze/react-genie)**<br>A set of React components for animating elements as they scroll into the viewport |
+| **192(+1%)**<br>2209 | **Not Code**<br>4 years ago | **[MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)**<br>A list of awesome beginners-friendly projects. |
+| **170(+266%)**<br>10 | **C**<br>last month | **[luke8086/boot2c](https://github.com/luke8086/boot2c)**<br>A simple way to write standalone C programs for i386 |
+| **167(+6%)**<br>341 | **C**<br>2 years ago | **[ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)**<br>GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows) |
+| **158(+3%)**<br>1129 | **Python**<br>3 years ago | **[axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu)**<br>open-source jailbreaking tool for many iOS devices |
+| **148(+28%)**<br>265 | **C++**<br>2 months ago | **[akio-tanaka/lickey](https://github.com/akio-tanaka/lickey)**<br>software license management system |
+| **139(+0%)**<br>21891 | **Not Code**<br>6 years ago | **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)**<br>A book series on JavaScript. @YDKJS on twitter. |
 
 There were 141,943 comments on issues by 48,246 users and 381 bots in 37,611 repositories.
 37,775 new issues were opened by 20,239 users and 52 bots in 18,297 repositories.

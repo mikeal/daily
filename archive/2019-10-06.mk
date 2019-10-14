@@ -3,18 +3,18 @@
 Across all of GitHub 47,769 users stared 
 48,283 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 501 (+10%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
-| 448 (+20%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
-| 439 (+7%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
-| 316 (+4%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
-| 211 (+18%) | 4 months ago | 64 | [facebookincubator/ent](https://github.com/facebookincubator/ent) | Go | An entity framework for Go |
-| 205 (+4%) | last month | 648 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
-| 150 (+0%) | 3 years ago | 17710 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Jupyter Notebook | All Algorithms implemented in Python |
-| 132 (+27%) | 3 months ago | 160 | [prabhupant/python-ds](https://github.com/prabhupant/python-ds) | Python | Repository for data structure and algorithms in Python |
-| 125 (+0%) | 5 years ago | 7076 | [ossu/computer-science](https://github.com/ossu/computer-science) | None | :mortar_board: Path to a free self-taught education in Computer Science! |
-| 120 (+0%) | 2 years ago | 24291 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook | Python - 100天从新手到大师 |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **501(+10%)**<br>975 | **TypeScript**<br>last year | **[vuejs/vue-next](https://github.com/vuejs/vue-next)**<br>null |
+| **448(+19%)**<br>189 | **Python**<br>2 months ago | **[streamlit/streamlit](https://github.com/streamlit/streamlit)**<br>Streamlit — The fastest way to build custom ML tools |
+| **439(+7%)**<br>726 | **JavaScript**<br>last year | **[iptv-org/iptv](https://github.com/iptv-org/iptv)**<br>Collection of 8000+ publicly available IPTV channels from all over the world |
+| **316(+4%)**<br>652 | **GLSL**<br>2 months ago | **[bloc97/Anime4K](https://github.com/bloc97/Anime4K)**<br>A High-Quality Real Time Upscaler for Anime Video |
+| **211(+18%)**<br>63 | **Go**<br>4 months ago | **[facebookincubator/ent](https://github.com/facebookincubator/ent)**<br>An entity framework for Go |
+| **205(+3%)**<br>689 | **Python**<br>last month | **[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)**<br>:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
+| **150(+0%)**<br>17747 | **Jupyter Notebook**<br>3 years ago | **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)**<br>All Algorithms implemented in Python |
+| **132(+26%)**<br>165 | **Python**<br>3 months ago | **[prabhupant/python-ds](https://github.com/prabhupant/python-ds)**<br>Repository for data structure and algorithms in Python |
+| **125(+0%)**<br>7100 | **Not Code**<br>5 years ago | **[ossu/computer-science](https://github.com/ossu/computer-science)**<br>:mortar_board: Path to a free self-taught education in Computer Science! |
+| **120(+0%)**<br>24378 | **Jupyter Notebook**<br>2 years ago | **[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)**<br>Python - 100天从新手到大师 |
 
 There were 62,766 comments on issues by 24,368 users and 245 bots in 18,777 repositories.
 26,033 new issues were opened by 10,824 users and 36 bots in 11,780 repositories.

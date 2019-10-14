@@ -3,18 +3,18 @@
 Across all of GitHub 59,613 users stared 
 56,745 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 414 (+7%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
-| 296 (+7%) | 3 years ago | 1123 | [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) | Python | open-source jailbreaking tool for many iOS devices |
-| 209 (+1%) | 3 years ago | 1808 | [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) | None | 🗿 A list of everything that *could* go in the head of your document |
-| 183 (+6%) | 9 months ago | 1054 | [ageron/handson-ml2](https://github.com/ageron/handson-ml2) | Jupyter Notebook | A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
-| 181 (+0%) | 4 years ago | 77894 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | An Open Source Machine Learning Framework for Everyone |
-| 157 (+6%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
-| 156 (+4%) | 3 weeks ago | 165 | [denisidoro/navi](https://github.com/denisidoro/navi) | Shell | An interactive cheatsheet tool for the command-line |
-| 138 (+260%) | 4 weeks ago | 8 | [mlang/ronor](https://github.com/mlang/ronor) | Rust | Sonos smart speaker controller API and command-line tools |
-| 133 (+1%) | last year | 1700 | [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | Shell | 📖 A collection of pure bash alternatives to external processes. |
-| 124 (+17%) | 3 months ago | 145 | [svip-lab/impersonator](https://github.com/svip-lab/impersonator) | Python | PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **414(+7%)**<br>726 | **JavaScript**<br>last year | **[iptv-org/iptv](https://github.com/iptv-org/iptv)**<br>Collection of 8000+ publicly available IPTV channels from all over the world |
+| **296(+7%)**<br>1129 | **Python**<br>3 years ago | **[axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu)**<br>open-source jailbreaking tool for many iOS devices |
+| **209(+1%)**<br>1809 | **Not Code**<br>3 years ago | **[joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)**<br>🗿 A list of everything that *could* go in the head of your document |
+| **183(+6%)**<br>1065 | **Jupyter Notebook**<br>9 months ago | **[ageron/handson-ml2](https://github.com/ageron/handson-ml2)**<br>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
+| **181(+0%)**<br>77912 | **C++**<br>4 years ago | **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)**<br>An Open Source Machine Learning Framework for Everyone |
+| **157(+6%)**<br>189 | **Python**<br>2 months ago | **[streamlit/streamlit](https://github.com/streamlit/streamlit)**<br>Streamlit — The fastest way to build custom ML tools |
+| **156(+4%)**<br>166 | **Shell**<br>3 weeks ago | **[denisidoro/navi](https://github.com/denisidoro/navi)**<br>An interactive cheatsheet tool for the command-line |
+| **138(+256%)**<br>8 | **Rust**<br>4 weeks ago | **[mlang/ronor](https://github.com/mlang/ronor)**<br>Sonos smart speaker controller API and command-line tools |
+| **133(+1%)**<br>1712 | **Shell**<br>last year | **[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)**<br>📖 A collection of pure bash alternatives to external processes. |
+| **124(+17%)**<br>147 | **Python**<br>4 months ago | **[svip-lab/impersonator](https://github.com/svip-lab/impersonator)**<br>PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis |
 
 There were 145,317 comments on issues by 47,546 users and 388 bots in 39,195 repositories.
 38,627 new issues were opened by 19,614 users and 60 bots in 18,279 repositories.

@@ -3,18 +3,18 @@
 Across all of GitHub 45,962 users stared 
 47,373 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 1130 (+25%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
-| 705 (+13%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
-| 253 (+10%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
-| 199 (+3%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
-| 145 (+132%) | last week | 328 | [dsc-galgotias-university/DSCFest-Hacktoberfest](https://github.com/dsc-galgotias-university/DSCFest-Hacktoberfest) | None | Hacktoberfest® is open to everyone in our global community.  |
-| 116 (+9%) | 4 months ago | 64 | [facebookincubator/ent](https://github.com/facebookincubator/ent) | Go | An entity framework for Go |
-| 107 (+0%) | 3 years ago | 17710 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Jupyter Notebook | All Algorithms implemented in Python |
-| 96 (+16%) | 4 months ago | 31 | [facebookresearch/hydra](https://github.com/facebookresearch/hydra) | Python | Hydra is a framework for elegantly configuring complex applications |
-| 93 (+14%) | 2 weeks ago | 148 | [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger) | Dart | Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter. |
-| 91 (+0%) | 2 years ago | 24291 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook | Python - 100天从新手到大师 |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **1130(+25%)**<br>975 | **TypeScript**<br>last year | **[vuejs/vue-next](https://github.com/vuejs/vue-next)**<br>null |
+| **705(+12%)**<br>726 | **JavaScript**<br>last year | **[iptv-org/iptv](https://github.com/iptv-org/iptv)**<br>Collection of 8000+ publicly available IPTV channels from all over the world |
+| **253(+10%)**<br>189 | **Python**<br>2 months ago | **[streamlit/streamlit](https://github.com/streamlit/streamlit)**<br>Streamlit — The fastest way to build custom ML tools |
+| **199(+3%)**<br>652 | **GLSL**<br>2 months ago | **[bloc97/Anime4K](https://github.com/bloc97/Anime4K)**<br>A High-Quality Real Time Upscaler for Anime Video |
+| **145(+132%)**<br>328 | **Not Code**<br>2 weeks ago | **[dsc-galgotias-university/DSCFest-Hacktoberfest](https://github.com/dsc-galgotias-university/DSCFest-Hacktoberfest)**<br>Hacktoberfest® is open to everyone in our global community.  |
+| **116(+9%)**<br>63 | **Go**<br>4 months ago | **[facebookincubator/ent](https://github.com/facebookincubator/ent)**<br>An entity framework for Go |
+| **107(+0%)**<br>17747 | **Jupyter Notebook**<br>3 years ago | **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)**<br>All Algorithms implemented in Python |
+| **96(+12%)**<br>36 | **Python**<br>4 months ago | **[facebookresearch/hydra](https://github.com/facebookresearch/hydra)**<br>Hydra is a framework for elegantly configuring complex applications |
+| **93(+14%)**<br>152 | **Dart**<br>2 weeks ago | **[janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger)**<br>Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter. |
+| **91(+0%)**<br>24378 | **Jupyter Notebook**<br>2 years ago | **[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)**<br>Python - 100天从新手到大师 |
 
 There were 63,045 comments on issues by 23,760 users and 252 bots in 19,978 repositories.
 21,001 new issues were opened by 10,641 users and 39 bots in 10,531 repositories.

@@ -3,18 +3,18 @@
 Across all of GitHub 59,406 users stared 
 57,964 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 549 (+10%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
-| 526 (+10%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
-| 343 (+14%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
-| 292 (+4%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
-| 209 (+1%) | 5 years ago | 1976 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | Fast, cross-platform HTTP/2 web server with automatic HTTPS |
-| 202 (+2%) | 7 months ago | 5381 | [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) | None | Cheat Sheets |
-| 170 (+29%) | 2 weeks ago | 148 | [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger) | Dart | Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter. |
-| 157 (+2%) | 3 years ago | 21312 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | None | 🚀✨ Help beginners to contribute to open source projects |
-| 145 (+1%) | 4 years ago | 2198 | [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | None | A list of awesome beginners-friendly projects. |
-| 131 (+88%) | 6 months ago | 1 | [tc39/proposal-uuid](https://github.com/tc39/proposal-uuid) | JavaScript | UUID proposal for ECMAScript (Stage 1) |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **549(+9%)**<br>726 | **JavaScript**<br>last year | **[iptv-org/iptv](https://github.com/iptv-org/iptv)**<br>Collection of 8000+ publicly available IPTV channels from all over the world |
+| **526(+10%)**<br>975 | **TypeScript**<br>last year | **[vuejs/vue-next](https://github.com/vuejs/vue-next)**<br>null |
+| **343(+14%)**<br>189 | **Python**<br>2 months ago | **[streamlit/streamlit](https://github.com/streamlit/streamlit)**<br>Streamlit — The fastest way to build custom ML tools |
+| **292(+4%)**<br>652 | **GLSL**<br>2 months ago | **[bloc97/Anime4K](https://github.com/bloc97/Anime4K)**<br>A High-Quality Real Time Upscaler for Anime Video |
+| **209(+1%)**<br>1977 | **Go**<br>5 years ago | **[caddyserver/caddy](https://github.com/caddyserver/caddy)**<br>Fast, cross-platform HTTP/2 web server with automatic HTTPS |
+| **202(+2%)**<br>5409 | **Not Code**<br>7 months ago | **[abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)**<br>Cheat Sheets |
+| **170(+28%)**<br>152 | **Dart**<br>2 weeks ago | **[janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger)**<br>Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter. |
+| **157(+2%)**<br>21412 | **Not Code**<br>3 years ago | **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)**<br>🚀✨ Help beginners to contribute to open source projects |
+| **145(+1%)**<br>2209 | **Not Code**<br>4 years ago | **[MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)**<br>A list of awesome beginners-friendly projects. |
+| **131(+88%)**<br>1 | **JavaScript**<br>6 months ago | **[tc39/proposal-uuid](https://github.com/tc39/proposal-uuid)**<br>UUID proposal for ECMAScript (Stage 1) |
 
 There were 128,053 comments on issues by 43,837 users and 382 bots in 34,813 repositories.
 34,309 new issues were opened by 17,913 users and 54 bots in 16,512 repositories.

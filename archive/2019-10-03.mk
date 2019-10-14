@@ -3,18 +3,18 @@
 Across all of GitHub 61,102 users stared 
 60,649 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 600 (+11%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
-| 366 (+458%) | last year | 44 | [rolling-scopes/rsschool-app](https://github.com/rolling-scopes/rsschool-app) | TypeScript | null |
-| 269 (+24%) | 4 months ago | 64 | [facebookincubator/ent](https://github.com/facebookincubator/ent) | Go | An entity framework for Go |
-| 178 (+7%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
-| 164 (+180%) | last week | 328 | [dsc-galgotias-university/DSCFest-Hacktoberfest](https://github.com/dsc-galgotias-university/DSCFest-Hacktoberfest) | None | Hacktoberfest® is open to everyone in our global community.  |
-| 159 (+3%) | 3 years ago | 733 | [eclipse-theia/theia](https://github.com/eclipse-theia/theia) | TypeScript | Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. |
-| 141 (+43%) | 5 years ago | 62 | [google/ktsan](https://github.com/google/ktsan) | C | KernelThreadSanitizer, a fast data race detector for the Linux kernel |
-| 132 (+26%) | 2 months ago | 22 | [hyperium/tonic](https://github.com/hyperium/tonic) | Rust | A native gRPC client & server implementation with async/await support. |
-| 126 (+32%) | 2 years ago | 12 | [kitze/react-genie](https://github.com/kitze/react-genie) | TypeScript | A set of React components for animating elements as they scroll into the viewport |
-| 125 (+1%) | 7 months ago | 5381 | [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) | None | Cheat Sheets |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **600(+10%)**<br>726 | **JavaScript**<br>last year | **[iptv-org/iptv](https://github.com/iptv-org/iptv)**<br>Collection of 8000+ publicly available IPTV channels from all over the world |
+| **366(+452%)**<br>44 | **TypeScript**<br>last year | **[rolling-scopes/rsschool-app](https://github.com/rolling-scopes/rsschool-app)**<br>null |
+| **269(+23%)**<br>63 | **Go**<br>4 months ago | **[facebookincubator/ent](https://github.com/facebookincubator/ent)**<br>An entity framework for Go |
+| **178(+7%)**<br>189 | **Python**<br>2 months ago | **[streamlit/streamlit](https://github.com/streamlit/streamlit)**<br>Streamlit — The fastest way to build custom ML tools |
+| **164(+180%)**<br>328 | **Not Code**<br>2 weeks ago | **[dsc-galgotias-university/DSCFest-Hacktoberfest](https://github.com/dsc-galgotias-university/DSCFest-Hacktoberfest)**<br>Hacktoberfest® is open to everyone in our global community.  |
+| **159(+3%)**<br>733 | **TypeScript**<br>3 years ago | **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)**<br>Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. |
+| **141(+43%)**<br>62 | **C**<br>5 years ago | **[google/ktsan](https://github.com/google/ktsan)**<br>KernelThreadSanitizer, a fast data race detector for the Linux kernel |
+| **132(+26%)**<br>22 | **Rust**<br>2 months ago | **[hyperium/tonic](https://github.com/hyperium/tonic)**<br>A native gRPC client & server implementation with async/await support. |
+| **126(+32%)**<br>12 | **TypeScript**<br>2 years ago | **[kitze/react-genie](https://github.com/kitze/react-genie)**<br>A set of React components for animating elements as they scroll into the viewport |
+| **125(+1%)**<br>5409 | **Not Code**<br>7 months ago | **[abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)**<br>Cheat Sheets |
 
 There were 133,273 comments on issues by 46,490 users and 391 bots in 34,333 repositories.
 36,128 new issues were opened by 19,224 users and 56 bots in 17,487 repositories.

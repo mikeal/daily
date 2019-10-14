@@ -3,18 +3,18 @@
 Across all of GitHub 85,097 users stared 
 68,963 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 1563 (+37%) | last month | 648 | [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | Python | :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐 :tada:） |
-| 706 (+10%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
-| 632 (+280%) | 2 weeks ago | 16 | [leeoniya/uPlot](https://github.com/leeoniya/uPlot) | HTML | An exceptionally fast, tiny time series chart |
-| 531 (+10%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
-| 477 (+16%) | 4 months ago | 158 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | Free node based Workflow Automation Tool. Easily automate tasks across different services. |
-| 395 (+22%) | 7 months ago | 122 | [hsoft/collapseos](https://github.com/hsoft/collapseos) | Assembly | Bootstrap post-collapse technology |
-| 378 (+1%) | 2 years ago | 24291 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook | Python - 100天从新手到大师 |
-| 342 (+56%) | 2 weeks ago | 75 | [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) | C++ | Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system. |
-| 329 (+2%) | 4 months ago | 5592 | [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) | Python | 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 |
-| 327 (+1%) | 5 years ago | 7076 | [ossu/computer-science](https://github.com/ossu/computer-science) | None | :mortar_board: Path to a free self-taught education in Computer Science! |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **1563(+34%)**<br>689 | **Python**<br>last month | **[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)**<br>:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
+| **706(+10%)**<br>652 | **GLSL**<br>2 months ago | **[bloc97/Anime4K](https://github.com/bloc97/Anime4K)**<br>A High-Quality Real Time Upscaler for Anime Video |
+| **632(+254%)**<br>16 | **HTML**<br>2 weeks ago | **[leeoniya/uPlot](https://github.com/leeoniya/uPlot)**<br>An exceptionally fast, tiny time series chart |
+| **531(+10%)**<br>975 | **TypeScript**<br>last year | **[vuejs/vue-next](https://github.com/vuejs/vue-next)**<br>null |
+| **477(+15%)**<br>160 | **TypeScript**<br>4 months ago | **[n8n-io/n8n](https://github.com/n8n-io/n8n)**<br>Free node based Workflow Automation Tool. Easily automate tasks across different services. |
+| **395(+21%)**<br>130 | **Assembly**<br>7 months ago | **[hsoft/collapseos](https://github.com/hsoft/collapseos)**<br>Bootstrap post-collapse technology |
+| **378(+1%)**<br>24378 | **Jupyter Notebook**<br>2 years ago | **[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)**<br>Python - 100天从新手到大师 |
+| **342(+51%)**<br>82 | **C++**<br>3 weeks ago | **[Tencent/Hardcoder](https://github.com/Tencent/Hardcoder)**<br>Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system. |
+| **329(+2%)**<br>5619 | **Python**<br>4 months ago | **[0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference)**<br>2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 |
+| **327(+1%)**<br>7100 | **Not Code**<br>5 years ago | **[ossu/computer-science](https://github.com/ossu/computer-science)**<br>:mortar_board: Path to a free self-taught education in Computer Science! |
 
 There were 134,314 comments on issues by 48,290 users and 371 bots in 35,473 repositories.
 37,711 new issues were opened by 20,170 users and 45 bots in 17,955 repositories.

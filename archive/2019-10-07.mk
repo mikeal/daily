@@ -3,18 +3,18 @@
 Across all of GitHub 67,900 users stared 
 61,333 repositories. 
 
-| stars | created | forks | lang | repo | desc |
-| --- | --- | --- | --- | --- | --- |
-| 874 (+70%) | 6 months ago | 165 | [idealo/imagededup](https://github.com/idealo/imagededup) | Python | 😎 Finding duplicate images made easy! |
-| 744 (+64%) | 2 months ago | 37 | [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) | Rust | Spotify for the terminal written in Rust 🚀 |
-| 652 (+3%) | 2 years ago | 1306 | [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Swift | 🚀 Awesome list of open source applications for macOS. |
-| 570 (+11%) | last year | 951 | [vuejs/vue-next](https://github.com/vuejs/vue-next) | TypeScript | null |
-| 462 (+8%) | last year | 718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | JavaScript | Collection of 8000+ publicly available IPTV channels from all over the world |
-| 423 (+6%) | 2 months ago | 635 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | GLSL | A High-Quality Real Time Upscaler for Anime Video |
-| 332 (+14%) | 2 months ago | 184 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | Python | Streamlit — The fastest way to build custom ML tools |
-| 299 (+5%) | 6 years ago | 6532 | [lewagon/dotfiles](https://github.com/lewagon/dotfiles) | Shell | Default configuration for Le Wagon's students |
-| 295 (+6%) | 6 years ago | 421 | [lewagon/setup](https://github.com/lewagon/setup) | Ruby | Setup instructions for Le Wagon's students on their first day of camp |
-| 252 (+13%) | 7 months ago | 122 | [hsoft/collapseos](https://github.com/hsoft/collapseos) | Assembly | Bootstrap post-collapse technology |
+| stars<br>---<br>forks | language<br>---<br>created | repo<br>---<br>description |
+| :---: | :---: | :--- |
+| **874(+68%)**<br>169 | **Python**<br>6 months ago | **[idealo/imagededup](https://github.com/idealo/imagededup)**<br>😎 Finding duplicate images made easy! |
+| **744(+60%)**<br>41 | **Rust**<br>2 months ago | **[Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)**<br>Spotify for the terminal written in Rust 🚀 |
+| **652(+3%)**<br>1310 | **Swift**<br>2 years ago | **[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)**<br>🚀 Awesome list of open source applications for macOS. |
+| **570(+11%)**<br>975 | **TypeScript**<br>last year | **[vuejs/vue-next](https://github.com/vuejs/vue-next)**<br>null |
+| **462(+8%)**<br>726 | **JavaScript**<br>last year | **[iptv-org/iptv](https://github.com/iptv-org/iptv)**<br>Collection of 8000+ publicly available IPTV channels from all over the world |
+| **423(+6%)**<br>652 | **GLSL**<br>2 months ago | **[bloc97/Anime4K](https://github.com/bloc97/Anime4K)**<br>A High-Quality Real Time Upscaler for Anime Video |
+| **332(+14%)**<br>189 | **Python**<br>2 months ago | **[streamlit/streamlit](https://github.com/streamlit/streamlit)**<br>Streamlit — The fastest way to build custom ML tools |
+| **299(+5%)**<br>6547 | **Shell**<br>6 years ago | **[lewagon/dotfiles](https://github.com/lewagon/dotfiles)**<br>Default configuration for Le Wagon's students |
+| **295(+6%)**<br>421 | **Ruby**<br>6 years ago | **[lewagon/setup](https://github.com/lewagon/setup)**<br>Setup instructions for Le Wagon's students on their first day of camp |
+| **252(+12%)**<br>130 | **Assembly**<br>7 months ago | **[hsoft/collapseos](https://github.com/hsoft/collapseos)**<br>Bootstrap post-collapse technology |
 
 There were 134,861 comments on issues by 47,297 users and 375 bots in 36,086 repositories.
 36,498 new issues were opened by 19,342 users and 50 bots in 17,794 repositories.
