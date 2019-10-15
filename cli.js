@@ -1,14 +1,16 @@
 #!/usr/bin/env node
 const regression = require('./lib/regression')
 const markdown = require('./lib/markdown')
+const showdown  = require('showdown')
+const juice = require('juice')
 const action = require('./lib/action')
 const pullHour = require('./lib/pull-hour')
 const mailchimp = require('./lib/mailchimp')
 const min = require('min-gharchive')
-const marked = require('marked')
 const fs = require('fs')
 const zlib = require('zlib')
 const { inspect } = require('util')
+const converter = new showdown.Converter({emoji: true, tables: true})
 
 const onehour = 1000 * 60 * 60
 
@@ -55,7 +57,6 @@ const runMarkdown = async argv => {
   else argv.datetime = new Date(argv.datetime)
   const filename = regname(argv.input, argv.datetime)
   const reg = JSON.parse(zlib.gunzipSync(fs.readFileSync(filename)).toString())
-  // console.log(inspect({all: reg.all, unique: reg.unique}, {depth: Infinity}))
   const mk = await markdown(reg, argv.datetime)
   if (argv.output) {
     fs.writeFileSync(argv.output, mk)
@@ -68,7 +69,9 @@ const runEmail = async argv => {
   const stripCharts = s => s.slice(0, s.indexOf('## Top Charts'))
   const readme = fs.readFileSync(__dirname + '/README.md').toString()
   const title = readme.split('\n')[0].slice(2) + ' in Open Source'
-  await mailchimp(title, marked.parse(stripCharts(readme)))
+  const style = fs.readFileSync(__dirname + '/email-style.css').toString()
+  const html = juice(`<style>${style}</style>${converter.makeHtml(stripCharts(readme))}`)
+  await mailchimp(title, html)
 }
 const outputOptions = yargs => {
   yargs.option('output', {
