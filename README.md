@@ -4,17 +4,17 @@ Across all of GitHub 85,329 users stared
 70,517 repositories. 
 
 | :sparkles: | :calendar: | :page_with_curl: |
-| :---: | :---: | :--- |
+| :--- | :--- | :--- |
 | **:star:1234(+55%)**<br>:twisted_rightwards_arrows:370 | **Not Code**<br>4 months ago | **[fangzesheng/free-api](https://github.com/fangzesheng/free-api)**<br>收集免费的接口服务,做一个api的搬运工 |
-| **:star:965(+35%)**<br>:twisted_rightwards_arrows:313 | **Not Code**<br>last year | **[uber-go/guide](https://github.com/uber-go/guide)**<br>The Uber Go Style Guide. |
-| **:star:664(+124%)**<br>:twisted_rightwards_arrows:250 | **Python**<br>5 days ago | **[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)**<br> 💎 一款超轻量级通用人脸检测模型（模型文件大小仅1MB，320x240输入下计算量仅90MFlops）适用于边缘计算设备、移动端设备以及PC |
+| **:star:965(+34%)**<br>:twisted_rightwards_arrows:314 | **Not Code**<br>last year | **[uber-go/guide](https://github.com/uber-go/guide)**<br>The Uber Go Style Guide. |
+| **:star:664(+123%)**<br>:twisted_rightwards_arrows:250 | **Python**<br>5 days ago | **[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)**<br> 💎 一款超轻量级通用人脸检测模型（模型文件大小仅1MB，320x240输入下计算量仅90MFlops）适用于边缘计算设备、移动端设备以及PC |
 | **:star:659(+154%)**<br>:twisted_rightwards_arrows:21 | **Not Code**<br>2 months ago | **[joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book)**<br>null |
-| **:star:640(+30%)**<br>:twisted_rightwards_arrows:269 | **Python**<br>last month | **[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)**<br>Detectron2 is FAIR's next-generation research platform for object detection and segmentation. |
-| **:star:455(+15%)**<br>:twisted_rightwards_arrows:779 | **CSS**<br>last year | **[deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)**<br>Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 |
-| **:star:311(+63%)**<br>:twisted_rightwards_arrows:17 | **Go**<br>last month | **[dunglas/vulcain](https://github.com/dunglas/vulcain)**<br>Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs |
+| **:star:640(+30%)**<br>:twisted_rightwards_arrows:270 | **Python**<br>last month | **[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)**<br>Detectron2 is FAIR's next-generation research platform for object detection and segmentation. |
+| **:star:455(+15%)**<br>:twisted_rightwards_arrows:780 | **CSS**<br>last year | **[deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)**<br>Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 |
+| **:star:311(+62%)**<br>:twisted_rightwards_arrows:17 | **Go**<br>last month | **[dunglas/vulcain](https://github.com/dunglas/vulcain)**<br>Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs |
 | **:star:304(+2%)**<br>:twisted_rightwards_arrows:2204 | **Standard ML**<br>2 years ago | **[komeiji-satori/Dress](https://github.com/komeiji-satori/Dress)**<br>好耶  是女装 |
 | **:star:250(+34%)**<br>:twisted_rightwards_arrows:64 | **TypeScript**<br>last year | **[microsoft/SandDance](https://github.com/microsoft/SandDance)**<br>Visually explore, understand, and present your data. |
-| **:star:236(+4%)**<br>:twisted_rightwards_arrows:737 | **Python**<br>last month | **[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)**<br>:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
+| **:star:236(+4%)**<br>:twisted_rightwards_arrows:738 | **Python**<br>last month | **[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)**<br>:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
 
 There were 134,525 comments on issues by 47,592 users and 368 bots in 35,915 repositories.
 36,815 new issues were opened by 19,969 users and 48 bots in 18,222 repositories.

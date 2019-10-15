@@ -157,13 +157,17 @@ thead {
   display: table-header-group; }
 
 td, th {
-  display: table-cell;  padding: 2px 2px 2px 2px; }
+  display: table-cell; }
 
 tr {
   display: table-row; }
 
-table th, table td {
+table th {
   padding: 0 1em; }
+
+table td {
+  padding: .2em .2em .2em .2em; }
+
 
 table thead {
   background: rgba(0, 0, 0, 0.15);
