@@ -9,14 +9,8 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Build
-      uses: actions/npm@master
-      with:
-        entrypoint: npm
-        args: install
+      run: npm install
     - name: Pull
-      uses: actions/npm@master
-      with:
-        entrypoint: npm
-        args: run email 
+      run: npm run email
       env:
         MAILCHIMP_TOKEN: ${{ secrets.MAILCHIMP_TOKEN }}
