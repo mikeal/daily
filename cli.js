@@ -43,7 +43,7 @@ const regname = (basepath, ts) => {
 const runRegression = async argv => {
   if (!argv.datetime) argv.datetime = new Date(Date.now() - (onehour * 24))
   else argv.datetime = new Date(argv.datetime)
-  const results = await regression(argv.input, argv.datetime)
+  const results = await regression(argv.datetime)
   if (argv.output) {
     const filename = regname(argv.output, argv.datetime)
     fs.writeFileSync(filename, zlib.gzipSync(JSON.stringify(results)))
