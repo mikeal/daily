@@ -33,7 +33,7 @@ Description:  Courier, Double-spaced, paragraph indent. Use `###### #` to create
 
 body {
   -webkit-font-smoothing: antialiased;
-  font: normal 1em/2.5em "CourierPrime", courier, monospace;
+  font: normal 1em/2.5em "Courier New", courier, monospace;
   margin: 4em 1in 1in 4em;
   width: auto; }
 
@@ -86,14 +86,14 @@ hr {
 
 body, p, td, div {
   color: #111111;
-  font-family: "CourierPrime", courier, monospace;
+  font-family: "Courier New", courier, monospace;
   word-wrap: break-word; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #111111;
-  font-family: "CourierPrimeBold", courier, monospace;
+  font-family: "Courier New", courier, monospace;
   line-height: 1.5em;
-  font-weight: normal; }
+  font-weight: bold; }
 
 a {
   color: #3c779c;
@@ -107,14 +107,19 @@ a {
     color: #3593d9; }
 
 strong {
-  font-family: "CourierPrimeBold", courier, monospace; }
+  font-family: "Courier Bold", courier, monospace;
+  font-weight: bold;
+}
 
 em {
-  font-family: "CourierPrimeItalic", courier, monospace !important; }
+  font-family: "Courier New", courier, monospace !important;
+  font-style: italic;
+}
 
 strong em, em strong {
-  font-family: "CourierPrimeBoldItalic", courier, monospace !important;
+  font-family: "Courier New", courier, monospace !important;
   font-weight: 700;
+  font-weight: bold;
   font-style: italic; }
 
 .footnote {
@@ -139,7 +144,9 @@ table {
 
 caption {
   display: table-caption;
-  font-family: "CourierPrimeBold", courier, monospace; }
+  font-family: "Courier New", courier, monospace;
+  font-weight: bold;
+}
 
 col {
   display: table-column; }
@@ -188,7 +195,8 @@ figure {
   margin: 1em 0 2em; }
 
 figcaption {
-  font-family: "CourierPrimeItalic", courier, monospace !important;
+  font-family: "Courier New", courier, monospace !important;
+  font-style: italic;
   text-align: center;
   background: white;
   color: #666666;
@@ -208,10 +216,10 @@ figure:hover > figcaption {
 
 .poetry pre {
   display: block;
-  font-family: "CourierPrimeItalic", courier, monospace !important;
+  font-family: "Courier New", courier, monospace !important;
   margin-left: 1em; }
   .poetry pre code {
-    font-family: "CourierPrime", courier, monospace;
+    font-family: "Courier New", courier, monospace;
     word-break: break-all;
     word-break: break-word;
     /* Non standard for webkit */
@@ -221,7 +229,7 @@ figure:hover > figcaption {
     white-space: pre-wrap; }
 
 blockquote p {
-  font-family: "CourierPrimeItalic", courier, monospace !important;
+  font-family: "Courier New", courier, monospace !important;
   text-indent: 0;
   font-style: italic; }
 
@@ -282,5 +290,3 @@ table tr:nth-child(even), table td:nth-child(even) {
 
   ::selection {
     background: rgba(157, 193, 200, 0.5); } }
-
-
